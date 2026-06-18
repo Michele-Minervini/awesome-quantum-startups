@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributing guide
+    url: https://github.com/micheleminervini/awesome-quantum-startups/blob/main/CONTRIBUTING.md
+    about: How the dataset works and how to add or fix entries yourself.

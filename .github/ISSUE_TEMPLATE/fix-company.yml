@@ -1,0 +1,37 @@
+name: ✏️ Fix or remove an entry
+description: Report an error, outdated detail, or an entry that should be removed.
+title: "[Fix] <company name>"
+labels: ["fix-entry"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Company name (as listed)
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What needs changing?
+      options:
+        - Wrong or outdated detail (HQ, founded year, website, etc.)
+        - Wrong category
+        - Company was acquired / merged / shut down
+        - Duplicate entry
+        - Should be removed (not a quantum company)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What is wrong, and what should it say?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      placeholder: Link confirming the correction.
+    validations:
+      required: true

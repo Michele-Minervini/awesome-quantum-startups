@@ -1,0 +1,65 @@
+name: ➕ Add a quantum company
+description: Suggest a company to add to the directory.
+title: "[Add] <company name>"
+labels: ["add-company"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping grow the list! Fill in what you know. A maintainer will
+        verify the details and add the entry. If you are comfortable editing JSON,
+        a pull request to `data/startups.json` is even faster (see CONTRIBUTING.md).
+  - type: input
+    id: name
+    attributes:
+      label: Company name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: hq
+    attributes:
+      label: Headquarters (city, country)
+      placeholder: Boston, United States
+    validations:
+      required: true
+  - type: input
+    id: founded
+    attributes:
+      label: Founded (year)
+      placeholder: "2021"
+  - type: dropdown
+    id: category
+    attributes:
+      label: Primary category
+      options:
+        - Quantum Computing Hardware
+        - Software, Algorithms & Error Correction
+        - Cloud & Access Platforms
+        - Quantum Sensing & Metrology
+        - Quantum Communication & Networking
+        - Quantum Security & Post-Quantum Cryptography
+        - Components & Enabling Technologies
+        - Applications, Consulting & Services
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: One-line description
+      placeholder: What does the company build or do? (Keep it factual, under ~140 characters.)
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      placeholder: Link to the company site or an article confirming the details.
+    validations:
+      required: true

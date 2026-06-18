@@ -1,0 +1,23 @@
+name: check
+
+# Verifies that README.md and data/startups.csv are in sync with the canonical
+# data/startups.json. If this fails, run `python3 scripts/generate.py` locally
+# and commit the regenerated files.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  generated-files-in-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Validate JSON and check generated files
+        run: |
+          python3 -c "import json; json.load(open('data/startups.json'))"
+          python3 scripts/generate.py --check
