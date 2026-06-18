@@ -51,9 +51,9 @@
     "subsector": "Hybrid quantum integration / services",
     "modality": "",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "active",
     "description": "EdgeAI company offering hybrid classical-quantum workflow integration and assurance services.",
-    "notes": "AmberFlux EdgeAI Pvt Ltd, Hyderabad, incorporated 2020 (corrected from Bangalore). Primarily an edge-AI firm; quantum is a secondary offering, so quantum relevance is limited."
+    "notes": "AmberFlux EdgeAI Pvt Ltd (Hyderabad); primarily an edge-AI firm offering quantum-readiness/hybrid consulting (quantum is a secondary offering)."
   },
   {
     "name": "Angstrom AI",
@@ -431,7 +431,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Quantum and classical molecular-simulation software (QEMIST/Tangelo); acquired by SandboxAQ in Jan 2024.",
-    "notes": "Vancouver, BC; spun out of 1QBit (2022), acquired by SandboxAQ January 2024."
+    "notes": "Vancouver, BC; spun out of 1QBit (2022), acquired by SandboxAQ January 2024.",
+    "acquired_by": "SandboxAQ",
+    "acquired_year": "2024"
   },
   {
     "name": "h-bar Quantum Technology Consultants",
@@ -778,10 +780,10 @@
     "category": "Applications, Consulting & Services",
     "subsector": "Life sciences",
     "modality": "",
-    "company_type": "national-lab-or-spinout",
-    "status": "uncertain",
+    "company_type": "other",
+    "status": "active",
     "description": "ETH Zurich research team applying quantum algorithms to protein/biomolecular simulation; XPRIZE Quantum Apps finalist.",
-    "notes": "Appears to be an ETH Zurich (Reiher group) research project, not a registered company; q4proteins.com does not resolve. Canonical page is q4proteins.ethz.ch."
+    "notes": "Academic research project (ETH Zurich + University of Copenhagen), not a registered company; XPRIZE Quantum Applications finalist 2025."
   },
   {
     "name": "QAI Ventures",
@@ -949,7 +951,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Materials-science company combining quantum computing and ML/AI to simulate atomic structures and discover novel materials.",
-    "notes": "Acquired by Comstock Inc. (NYSE American: LODE) in Oct 2024; materials-discovery platform and team folded into Comstock. Founder Deep Prasad retained the satellite/space assets."
+    "notes": "Acquired by Comstock Inc. (NYSE American: LODE) in Oct 2024; materials-discovery platform and team folded into Comstock. Founder Deep Prasad retained the satellite/space assets.",
+    "acquired_by": "Comstock",
+    "acquired_year": "2024"
   },
   {
     "name": "Quantum Intelligence (QIC)",
@@ -1162,20 +1166,6 @@
     "notes": "Founded by Araceli Venegas-Gomez."
   },
   {
-    "name": "QuVantum",
-    "website": "https://www.quvantum.ch",
-    "hq_country": "Switzerland",
-    "hq_city": "Zurich",
-    "founded": "",
-    "category": "Applications, Consulting & Services",
-    "subsector": "Finance software",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Reported quantum software for financial services: portfolio optimization, risk and derivative pricing.",
-    "notes": "Could not confirm an operating company: quvantum.ch does not resolve and descriptions trace to a single aggregator (with conflated founder data). Existence unverified."
-  },
-  {
     "name": "RAQS Quantum",
     "website": "https://www.raqsquantum.com",
     "hq_country": "Singapore",
@@ -1355,7 +1345,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "PlanQK quantum application marketplace and platform; community-powered quantum services.",
-    "notes": "PlanQK platform acquired by Kipu Quantum (July 2024); Anaqor AG was the original developer."
+    "notes": "PlanQK platform acquired by Kipu Quantum (July 2024); Anaqor AG was the original developer.",
+    "acquired_by": "Kipu Quantum",
+    "acquired_year": "2024"
   },
   {
     "name": "Aqora",
@@ -1457,7 +1449,7 @@
   },
   {
     "name": "Qapitan",
-    "website": "https://qapitan.com",
+    "website": "",
     "hq_country": "Spain",
     "hq_city": "Barcelona",
     "founded": "2020",
@@ -1465,9 +1457,9 @@
     "subsector": "Quantum API marketplace",
     "modality": "",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "defunct",
     "description": "Qubit-agnostic API marketplace/gateway connecting users to simulators and quantum hardware via RESTful APIs.",
-    "notes": "Founded by Sergio Gago, run ~2020-2022, then 'sold'; Gago moved to Moody's. Current operating status and website unclear; likely dormant/wound down."
+    "notes": "Quantum API marketplace (founder Sergio Gago); wound down, qapitan.com no longer resolves."
   },
   {
     "name": "qBraid",
@@ -1663,7 +1655,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Silicon-nitride/MEMS photonic integrated circuits; acquired by Pasqal to support neutral-atom laser systems.",
-    "notes": "Montreal, QC; founded 2012 (corrected from 2011); acquired by Pasqal in June 2025."
+    "notes": "Montreal, QC; founded 2012 (corrected from 2011); acquired by Pasqal in June 2025.",
+    "acquired_by": "Pasqal",
+    "acquired_year": "2025"
   },
   {
     "name": "Akhetonics",
@@ -1775,7 +1769,9 @@
     "company_type": "other",
     "status": "acquired",
     "description": "RF/microwave signal generators and phase-noise analyzers for quantum and test applications.",
-    "notes": "Acquired by Keysight Technologies in 2024."
+    "notes": "Acquired by Keysight Technologies in 2024.",
+    "acquired_by": "Keysight Technologies",
+    "acquired_year": "2024"
   },
   {
     "name": "AnharmoniQ",
@@ -1787,9 +1783,9 @@
     "subsector": "Quantum hardware infrastructure",
     "modality": "superconducting",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "active",
     "description": "Builds critical hardware infrastructure for scaling large-scale superconducting quantum computers.",
-    "notes": "No confirmed website found. Selected for inaugural Alchemist Chicago cohort (Oct 2025) via Duality; backed by UChicago Polsky Center, IBM. Verify homepage before publishing."
+    "notes": "Stealth quantum-hardware startup; selected for the inaugural Alchemist Chicago / Duality cohort (2025)."
   },
   {
     "name": "Anritsu",
@@ -1915,7 +1911,9 @@
     "company_type": "big-tech-division",
     "status": "acquired",
     "description": "RF/microwave components and cryogenic amplifiers applicable to quantum control electronics.",
-    "notes": "Acquired by ETL Systems in 2019; now ETL's instrumentation/measurement division."
+    "notes": "Acquired by ETL Systems in 2019; now ETL's instrumentation/measurement division.",
+    "acquired_by": "ETL Systems",
+    "acquired_year": "2019"
   },
   {
     "name": "attocube systems",
@@ -2153,7 +2151,9 @@
     "company_type": "other",
     "status": "acquired",
     "description": "Ultra-low-temperature dilution refrigerators (HEXA-DRY/HEXA-WET) reaching below 10 mK.",
-    "notes": "CEA spin-off; Air Liquide acquired majority (80%) stake in 2020. HQ corrected from Massy to Les Ulis."
+    "notes": "CEA spin-off; Air Liquide acquired majority (80%) stake in 2020. HQ corrected from Massy to Les Ulis.",
+    "acquired_by": "Air Liquide",
+    "acquired_year": "2020"
   },
   {
     "name": "Cryofab",
@@ -2195,7 +2195,9 @@
     "company_type": "other",
     "status": "acquired",
     "description": "Pulse-tube and Gifford-McMahon cryocoolers and cryogenic refrigeration systems.",
-    "notes": "Acquired by Bluefors (closed 2023); operates as part of Bluefors group from Syracuse."
+    "notes": "Acquired by Bluefors (closed 2023); operates as part of Bluefors group from Syracuse.",
+    "acquired_by": "Bluefors",
+    "acquired_year": "2023"
   },
   {
     "name": "Delft Circuits",
@@ -2573,7 +2575,9 @@
     "company_type": "other",
     "status": "acquired",
     "description": "Adiabatic demagnetization refrigerators and cryogenic instrumentation for quantum and detector research.",
-    "notes": "Acquired by FormFactor in 2020."
+    "notes": "Acquired by FormFactor in 2020.",
+    "acquired_by": "FormFactor",
+    "acquired_year": "2020"
   },
   {
     "name": "HiQuTe Diamond",
@@ -2769,7 +2773,9 @@
     "company_type": "other",
     "status": "acquired",
     "description": "Cryogenic, magnetic and material-characterization measurement instruments used in quantum computing.",
-    "notes": "Cryogenics business acquired by Lake Shore Cryotronics (2020); ULT dilution-refrigerator line went to FormFactor."
+    "notes": "Cryogenics business acquired by Lake Shore Cryotronics (2020); ULT dilution-refrigerator line went to FormFactor.",
+    "acquired_by": "Lake Shore Cryotronics",
+    "acquired_year": "2020"
   },
   {
     "name": "K1 Semiconductor",
@@ -3035,7 +3041,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Diode laser systems and laser/RF control electronics for atomic physics and quantum labs.",
-    "notes": "University of Melbourne spinout (2006/2007); acquired by Santec Group in 2025."
+    "notes": "University of Melbourne spinout (2006/2007); acquired by Santec Group in 2025.",
+    "acquired_by": "Santec",
+    "acquired_year": "2025"
   },
   {
     "name": "Monarch Quantum",
@@ -3147,7 +3155,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Quantum optical instrumentation: entangled-photon sources, detectors and state-tomography systems.",
-    "notes": "Acquired by Quantum Computing Inc. (QUBT). Site nucrypt.net remains live."
+    "notes": "Acquired by Quantum Computing Inc. (QUBT). Site nucrypt.net remains live.",
+    "acquired_by": "Quantum Computing Inc.",
+    "acquired_year": "2026"
   },
   {
     "name": "Octave Photonics",
@@ -3259,7 +3269,9 @@
     "company_type": "big-tech-division",
     "status": "acquired",
     "description": "Dilution refrigerators (Proteox), superconducting magnets and ultra-low-temperature cryogenic systems.",
-    "notes": "Oxford NanoScience cryogenic line acquired by Quantum Design (completed Jan 2026); now operates as Quantum Design Oxford."
+    "notes": "Oxford NanoScience cryogenic line acquired by Quantum Design (completed Jan 2026); now operates as Quantum Design Oxford.",
+    "acquired_by": "Quantum Design",
+    "acquired_year": "2026"
   },
   {
     "name": "OZ Optics",
@@ -3427,7 +3439,9 @@
     "company_type": "other",
     "status": "acquired",
     "description": "GaN-on-silicon microLED and optoelectronic components with quantum-relevant photonics.",
-    "notes": "Modern Plessey Semiconductors Ltd formed 2010 (MBO); acquired by Haylo Labs in 2025. Canonical site plessey.com."
+    "notes": "Modern Plessey Semiconductors Ltd formed 2010 (MBO); acquired by Haylo Labs in 2025. Canonical site plessey.com.",
+    "acquired_by": "Haylo Labs",
+    "acquired_year": "2025"
   },
   {
     "name": "Prenishq",
@@ -3497,7 +3511,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Cryogenic auxiliary electronics, filters and components operating from mK to room temperature.",
-    "notes": "Acquired by Quantum Machines (2022); now its Auxiliary Electronics Division."
+    "notes": "Acquired by Quantum Machines (2022); now its Auxiliary Electronics Division.",
+    "acquired_by": "Quantum Machines",
+    "acquired_year": "2022"
   },
   {
     "name": "Qolab",
@@ -3917,7 +3933,9 @@
     "company_type": "public-company",
     "status": "acquired",
     "description": "US semiconductor foundry providing dedicated fabrication for quantum and specialty chips.",
-    "notes": "Being acquired by IonQ (~$1.8bn deal announced 2026, closing 2026)."
+    "notes": "Being acquired by IonQ (~$1.8bn deal announced 2026, closing 2026).",
+    "acquired_by": "IonQ",
+    "acquired_year": "2026"
   },
   {
     "name": "Sparrow Quantum",
@@ -4033,7 +4051,7 @@
   },
   {
     "name": "SynthBits",
-    "website": "",
+    "website": "https://synthbits.com",
     "hq_country": "United States",
     "hq_city": "Chicago",
     "founded": "2024",
@@ -4041,9 +4059,9 @@
     "subsector": "Molecular qubits / materials",
     "modality": "molecular spin qubit",
     "company_type": "national-lab-or-spinout",
-    "status": "uncertain",
+    "status": "active",
     "description": "Develops chemically synthesized transition-metal molecular qubits for computing, communication and nanoscale sensing.",
-    "notes": "Argonne Chain Reaction Innovations (Cohort 8) company; founded by Berk Diler Kovos (PhD, UChicago PME). No standalone website confirmed; initially targeting quantum microscopy."
+    "notes": "Argonne Chain Reaction Innovations cohort; chemically-synthesized molecular qubits; site is currently a launching-soon placeholder."
   },
   {
     "name": "Tabor Electronics",
@@ -4139,9 +4157,9 @@
     "subsector": "Silicon photonics",
     "modality": "photonic",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "active",
     "description": "Silicon-photonics all-optical computing chip developer.",
-    "notes": "Founded 2014, Cardiff. Current site tsgl.xyz (record's tundrasystems.eu unreachable). Tracxn lists it as deadpooled; activity unclear."
+    "notes": "Cardiff silicon-photonics / all-optical computing (Companies House #9285819); low recent activity (some trackers list it deadpooled)."
   },
   {
     "name": "ULVAC Cryogenics",
@@ -4281,7 +4299,9 @@
     "company_type": "scaleup",
     "status": "acquired",
     "description": "Quantum control and readout systems: qubit controllers, signal generators, lock-in amplifiers.",
-    "notes": "ETH Zurich spinout; acquired by Rohde & Schwarz (2021), operates as standalone unit."
+    "notes": "ETH Zurich spinout; acquired by Rohde & Schwarz (2021), operates as standalone unit.",
+    "acquired_by": "Rohde & Schwarz",
+    "acquired_year": "2021"
   },
   {
     "name": "Aegis Quantum",
@@ -4349,7 +4369,7 @@
     "subsector": "Quantum repeaters",
     "modality": "",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "active",
     "description": "Room-temperature all-photonic, keyless quantum repeaters and QPU for distributed networks.",
     "notes": "Founded ~2015 (Littleton, MA) by Christopher Papile. Website live but stale (copyright 2018-2023); limited recent activity signals."
   },
@@ -4477,7 +4497,9 @@
     "company_type": "scaleup",
     "status": "acquired",
     "description": "Pioneer of commercial QKD systems (Cerberis/Clavis), QRNG and quantum-safe networks.",
-    "notes": "University of Geneva spinout; IonQ completed acquisition May 2025. Operates within IonQ networking."
+    "notes": "University of Geneva spinout; IonQ completed acquisition May 2025. Operates within IonQ networking.",
+    "acquired_by": "IonQ",
+    "acquired_year": "2025"
   },
   {
     "name": "KEEQuant",
@@ -4575,7 +4597,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Diamond color-center quantum interconnect and memory startup; acquired by IonQ in 2025.",
-    "notes": "Harvard/AWS CQN spinout; $18M Series A (Nov 2024); acquired by IonQ May 2025."
+    "notes": "Harvard/AWS CQN spinout; $18M Series A (Nov 2024); acquired by IonQ May 2025.",
+    "acquired_by": "IonQ",
+    "acquired_year": "2025"
   },
   {
     "name": "LQUOM",
@@ -4645,7 +4669,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "TFLT photonic microwave-to-optical quantum transducers/interconnects for distributed quantum computing and networking.",
-    "notes": "EPFL spinout (Ecublens); acquired 100% by SEALSQ, completed June 2026."
+    "notes": "EPFL spinout (Ecublens); acquired 100% by SEALSQ, completed June 2026.",
+    "acquired_by": "SEALSQ",
+    "acquired_year": "2026"
   },
   {
     "name": "Next Generation Quantum (NGQ)",
@@ -4657,9 +4683,9 @@
     "subsector": "Quantum interconnects",
     "modality": "",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "defunct",
     "description": "Develops quantum optical interconnects to network multiple quantum computers; City Tech-linked patent.",
-    "notes": "Founded 2019, Brooklyn (founders Raklyar/Kolmakov). PitchBook lists status 'Out of Business' though LinkedIn/ngq.io still appear; provided domain nextgenq.com unverified. Set uncertain."
+    "notes": "Quantum-interconnect startup (NSF I-Corps, Techstars LA 2022); PitchBook lists 'Out of Business'; domains now parked."
   },
   {
     "name": "Nokia Bell Labs (Quantum)",
@@ -4844,20 +4870,6 @@
     "notes": "U of Toronto spinout (Hoi-Kwong Lo, Mattia Montagna), founded 2019."
   },
   {
-    "name": "Quantum Generation",
-    "website": "https://quantumgeneration.io",
-    "hq_country": "United States",
-    "hq_city": "Miami, FL",
-    "founded": "2018",
-    "category": "Quantum Communication & Networking",
-    "subsector": "Space QKD",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Satellite-based quantum communication and secure mesh networking venture.",
-    "notes": "Site live but heavy blockchain/crypto-token marketing; independent technical validation limited. Founding year ~2018 unverified."
-  },
-  {
     "name": "Quantum Industries",
     "website": "https://www.quantum-industries.eu",
     "hq_country": "Austria",
@@ -4939,7 +4951,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Builds entangled-photon sources and quantum network hardware; operated EPB Chattanooga quantum network.",
-    "notes": "Acquired by IonQ; deal completed January 2025 (~$54.5M)."
+    "notes": "Acquired by IonQ; deal completed January 2025 (~$54.5M).",
+    "acquired_by": "IonQ",
+    "acquired_year": "2025"
   },
   {
     "name": "quCertify",
@@ -5205,7 +5219,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Superconducting fluxonium qubits with co-located cryogenic control electronics; MIT (EQuS) spinout.",
-    "notes": "Acquired by Google Quantum AI (Oct 2025). Previously selected for DARPA QBI."
+    "notes": "Acquired by Google Quantum AI (Oct 2025). Previously selected for DARPA QBI.",
+    "acquired_by": "Google",
+    "acquired_year": "2025"
   },
   {
     "name": "Atom Computing",
@@ -5259,9 +5275,9 @@
     "subsector": "Superconducting accelerators",
     "modality": "superconducting",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "defunct",
     "description": "Application-specific superconducting quantum accelerators; co-designs hardware/software for targeted problems.",
-    "notes": "Founded by Alexei Marchenkov. Listed among active Bay Area firms but little recent public activity; status hard to confirm."
+    "notes": "Superconducting quantum startup (founded 2017, Berkeley; $1.5M seed). Founder/CEO Alexei Marchenkov died Jan 2023; bleximo.com is now a for-sale domain. Appears defunct."
   },
   {
     "name": "Bose Quantum / QBoson (玻色量子)",
@@ -5665,9 +5681,9 @@
     "subsector": "Photonic boson-sampling processors",
     "modality": "photonic",
     "company_type": "national-lab-or-spinout",
-    "status": "uncertain",
+    "status": "active",
     "description": "Name tied to USTC's Jiuzhang photonic boson-sampling processors; no confirmed commercial company of this name.",
-    "notes": "Jiuzhang is a USTC/CAS research processor (4.0 in 2026), NOT a confirmed commercial spinout. The photonic commercial spinout from this ecosystem is TuringQ (Shanghai). No 'Jiuzhang Quantum' company or website verified."
+    "notes": "Tsinghua-affiliated commercial entity that co-operated the Jiuzhang 4.0 photonic processor (announced 2025), distinct from the underlying USTC/CAS academic program."
   },
   {
     "name": "Liangyi Wanxiang / Atom to Infinity (量羽万象)",
@@ -5877,7 +5893,9 @@
     "company_type": "national-lab-or-spinout",
     "status": "acquired",
     "description": "Trapped-ion quantum computing with electronic qubit control on silicon chips; Oxford University spinout.",
-    "notes": "Acquired by IonQ (US), deal completed Sept 2025 (~$1.075B); UK operations remain in Oxford."
+    "notes": "Acquired by IonQ (US), deal completed Sept 2025 (~$1.075B); UK operations remain in Oxford.",
+    "acquired_by": "IonQ",
+    "acquired_year": "2025"
   },
   {
     "name": "Oxford Quantum Circuits",
@@ -6171,7 +6189,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Dual-rail cavity superconducting qubits with hardware-level error detection; Yale (Schoelkopf/Devoret) spinout.",
-    "notes": "Being acquired by D-Wave ($550M, announced 2026); New Haven R&D center to continue."
+    "notes": "Being acquired by D-Wave ($550M, announced 2026); New Haven R&D center to continue.",
+    "acquired_by": "D-Wave",
+    "acquired_year": "2026"
   },
   {
     "name": "Quantum Computing Inc. (QCi)",
@@ -6242,20 +6262,6 @@
     "status": "active",
     "description": "Develops single-chip solid-state quantum processors (now diamond-based) with native photonic interconnects for data centers.",
     "notes": "Website added; HQ corrected to Herzliya; founded 2022. Received EUR 17.5M from the European Innovation Council; runs own diamond fab."
-  },
-  {
-    "name": "QuantumSphere Technologies",
-    "website": "https://www.linkedin.com/company/quantum-sphere-technologies-qst",
-    "hq_country": "Kenya",
-    "hq_city": "Nairobi",
-    "founded": "",
-    "category": "Quantum Computing Hardware",
-    "subsector": "Quantum hardware/software",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Early-stage Kenyan startup reportedly pursuing quantum hardware and software solutions.",
-    "notes": "Existence unverified: only appears in a single Silicon Africa listicle, which lists a mismatched website (algeriaqcc.com). The quantumspheretechnologies.net domain redirects to a Texas IT-staffing firm (qspheretech.com), unrelated to quantum. No independent corroboration found; likely fabricated or non-operational."
   },
   {
     "name": "QuantWare",
@@ -6525,17 +6531,17 @@
   },
   {
     "name": "Tokyo Quantum Computing",
-    "website": "",
+    "website": "https://www.to-qc.com/",
     "hq_country": "Japan",
     "hq_city": "Tokyo",
-    "founded": "2020",
-    "category": "Quantum Computing Hardware",
-    "subsector": "Superconducting hardware + software",
-    "modality": "superconducting",
+    "founded": "2017",
+    "category": "Software, Algorithms & Error Correction",
+    "subsector": "Quantum annealing software",
+    "modality": "",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "active",
     "description": "Reportedly develops integrated superconducting quantum hardware and software.",
-    "notes": "Only appears in aggregator directory listings; no canonical website, funding, or primary sources confirmed. Founded year unverified."
+    "notes": "Corrected: quantum-annealing software firm (sells Monte Carlo QA simulation source code), founded 2017 by Chiaki Yamaguchi, Tokyo; not superconducting hardware."
   },
   {
     "name": "TreQ",
@@ -6665,15 +6671,15 @@
   },
   {
     "name": "Aires Applied Quantum Technology",
-    "website": "https://www.airesaqt.com",
+    "website": "https://airesatech.com",
     "hq_country": "Singapore",
     "hq_city": "Singapore",
-    "founded": "",
+    "founded": "2021",
     "category": "Quantum Security & Post-Quantum Cryptography",
     "subsector": "PQC software & quantum cryptography",
     "modality": "",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "active",
     "description": "Singapore firm advancing post-quantum cryptography; filed Southeast Asia's first international PQC/quantum patents.",
     "notes": "Company well-documented (Jan 2026 patent news) but listed website airesaqt.com does not resolve (NXDOMAIN)."
   },
@@ -6846,20 +6852,6 @@
     "notes": "Sorbonne/Inria spinout (Faugere, Perret)."
   },
   {
-    "name": "Cryptosasun",
-    "website": "https://criptosasun.com",
-    "hq_country": "Spain",
-    "hq_city": "Madrid",
-    "founded": "2019",
-    "category": "Quantum Security & Post-Quantum Cryptography",
-    "subsector": "Post-quantum cryptography / quantum-safe security",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Reported provider of AI- and quantum-enabled cybersecurity and post-quantum cryptography for finance/insurance.",
-    "notes": "Listed in startup databases (Madrid, 2019, domain criptosasun.com) but live homepage and activity could not be independently confirmed."
-  },
-  {
     "name": "Cryptosense",
     "website": "https://cryptosense.com",
     "hq_country": "France",
@@ -6871,7 +6863,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Crypto-discovery and analysis software for detecting and remediating cryptographic vulnerabilities (PQC readiness).",
-    "notes": "Acquired by SandboxAQ in 2022; now part of SandboxAQ."
+    "notes": "Acquired by SandboxAQ in 2022; now part of SandboxAQ.",
+    "acquired_by": "SandboxAQ",
+    "acquired_year": "2022"
   },
   {
     "name": "DigiCert",
@@ -7000,20 +6994,6 @@
     "notes": "~3x3mm radioisotope-decay QRNG chip; designated under Korea's national strategic technology framework."
   },
   {
-    "name": "Flipscloud",
-    "website": "https://flipscloud.com",
-    "hq_country": "Taiwan",
-    "hq_city": "Taipei",
-    "founded": "2013",
-    "category": "Quantum Security & Post-Quantum Cryptography",
-    "subsector": "Quantum-safe cloud/IoT encryption",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Quantum-level encryption for cloud, IoT and big-data security.",
-    "notes": "Corrected: founded 2013 in Taipei, Taiwan by Allan Ko (not Bengaluru/2020). Tracxn lists it as inactive and homepage refused connection; relevance/activity uncertain."
-  },
-  {
     "name": "Fortanix",
     "website": "https://www.fortanix.com",
     "hq_country": "United States",
@@ -7095,7 +7075,9 @@
     "company_type": "scaleup",
     "status": "acquired",
     "description": "Cryptographic discovery/agility platform (AgileSec) for crypto inventory and PQC migration.",
-    "notes": "Toronto, ON; founded 2013 (record said 2016). Acquired by Keyfactor in May 2025; now operates as a Keyfactor company."
+    "notes": "Toronto, ON; founded 2013 (record said 2016). Acquired by Keyfactor in May 2025; now operates as a Keyfactor company.",
+    "acquired_by": "Keyfactor",
+    "acquired_year": "2025"
   },
   {
     "name": "ISARA Corporation",
@@ -7376,20 +7358,6 @@
     "status": "active",
     "description": "Vendor-neutral quantum cybersecurity firm offering cryptographic risk intelligence (QScout), quantum pen-testing and PQC migration.",
     "notes": "HQ Miami with R&D in Be'er Sheva, Israel. Launched independent PQC scoring platform (Qtonic Quantum Lab) at RSAC 2026."
-  },
-  {
-    "name": "QuantaX",
-    "website": "https://quantumnigeria.com/",
-    "hq_country": "Nigeria",
-    "hq_city": "",
-    "founded": "",
-    "category": "Quantum Security & Post-Quantum Cryptography",
-    "subsector": "Quantum cybersecurity / encryption",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Reported Nigerian startup focused on quantum encryption and cybersecurity.",
-    "notes": "Existence unverified: appears only in a single Silicon Africa listicle with no city, founding year, or independent corroboration. Website quantumnigeria.com unconfirmed as this entity. Likely fabricated or non-operational."
   },
   {
     "name": "QuantiCor Security",
@@ -7966,20 +7934,6 @@
     "notes": "Founders ex-CQT; backed by BHP Ventures and In-Q-Tel."
   },
   {
-    "name": "Bliq Photonics",
-    "website": "https://bliqphotonics.com/",
-    "hq_country": "Canada",
-    "hq_city": "Quebec City",
-    "founded": "",
-    "category": "Quantum Sensing & Metrology",
-    "subsector": "Photonic imaging instruments",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Quebec City photonics firm building advanced microscopy and in-line optical sensing instruments.",
-    "notes": "Quebec City, QC. Primarily life-science microscopy (SPARQ/VMS) and inline viscosity monitoring; direct quantum-tech link is weak, so status set to uncertain."
-  },
-  {
     "name": "Bosch Quantum Sensing",
     "website": "https://www.bosch-quantumsensing.com",
     "hq_country": "Germany",
@@ -8512,20 +8466,6 @@
     "notes": "UMCG/University of Groningen roots; Quantum Nuova platform. Founding year ~2020-2024 per sources; record's 2024 retained."
   },
   {
-    "name": "Qu-TES",
-    "website": "https://www.qutes.jp",
-    "hq_country": "Japan",
-    "hq_city": "",
-    "founded": "",
-    "category": "Quantum Sensing & Metrology",
-    "subsector": "Quantum/superconducting sensing",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Reportedly a Japanese quantum sensing / transition-edge-sensor detector company.",
-    "notes": "Could not independently confirm this company; website qutes.jp did not resolve and no verifiable third-party sources found. Set uncertain."
-  },
-  {
     "name": "QUAD",
     "website": "",
     "hq_country": "South Korea",
@@ -8845,7 +8785,9 @@
     "company_type": "scaleup",
     "status": "acquired",
     "description": "Field-deployed atomic clocks, gravimeters and inertial sensors for GPS-independent PNT; now part of IonQ.",
-    "notes": "Acquired by IonQ; deal completed October 2, 2025. Founded 2018, Pleasanton CA."
+    "notes": "Acquired by IonQ; deal completed October 2, 2025. Founded 2018, Pleasanton CA.",
+    "acquired_by": "IonQ",
+    "acquired_year": "2025"
   },
   {
     "name": "Vescent",
@@ -8899,9 +8841,11 @@
     "subsector": "Quantum software & algorithms",
     "modality": "",
     "company_type": "scaleup",
-    "status": "acquired",
+    "status": "active",
     "description": "One of the first dedicated quantum software companies; hardware-agnostic algorithms and optimization software.",
-    "notes": "Acquired by Terra Quantum AG (Feb 2024); operates within the Terra Quantum group while retaining Vancouver operations."
+    "notes": "Independent; a previously-listed Terra Quantum acquisition (Feb 2024) could not be verified from any primary source.",
+    "acquired_by": "",
+    "acquired_year": ""
   },
   {
     "name": "4colors Research",
@@ -8943,7 +8887,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Maker of open-source Covalent orchestration for hybrid HPC/quantum/AI workloads across heterogeneous backends.",
-    "notes": "Toronto-founded (2018). Acquired by DataRobot (Feb 2025); had pivoted from quantum toward broader AI/compute orchestration prior to acquisition."
+    "notes": "Toronto-founded (2018). Acquired by DataRobot (Feb 2025); had pivoted from quantum toward broader AI/compute orchestration prior to acquisition.",
+    "acquired_by": "DataRobot",
+    "acquired_year": "2025"
   },
   {
     "name": "Algorithmiq",
@@ -9028,20 +8974,6 @@
     "status": "active",
     "description": "R&D firm offering quantum/quantum-inspired simulators, annealers and optimization software; claims unverified large-qubit systems.",
     "notes": "Registered London 2014, moved to India 2016; offices in Bengaluru and Los Angeles. Founders Aditya and Renu Yadav. Bold/unverified hardware claims (1M-qubit annealer, 1000 logical qubits)."
-  },
-  {
-    "name": "Avid Quantum",
-    "website": "https://www.avidquantum.com",
-    "hq_country": "United States",
-    "hq_city": "Milpitas, California",
-    "founded": "",
-    "category": "Software, Algorithms & Error Correction",
-    "subsector": "Quantum ML / materials simulation",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Quantum software firm building numerical models for materials near quantum phase transitions and quantum ML/optimization.",
-    "notes": "Real listing (CB Insights, toptierstartups); Milpitas, CA; associated with Avid Farhoodfar. Website avidquantum.com refused connection during checks; very small/possibly dormant."
   },
   {
     "name": "Baidu Quantum (百度量子)",
@@ -9193,7 +9125,7 @@
     "subsector": "Quantum simulation library",
     "modality": "",
     "company_type": "other",
-    "status": "uncertain",
+    "status": "active",
     "description": "Open-source GPU-accelerated, differentiable quantum-dynamics simulation library (JAX).",
     "notes": "Not a standalone company; open-source project sponsored by Alice & Bob. Canonical site is dynamiqs.org, not .com."
   },
@@ -9223,7 +9155,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Software for scaling quantum computers via distributed multi-QPU architectures and compilation.",
-    "notes": "Toronto-based; assets acquired by IonQ in Jan 2023, team became IonQ Canada. Standalone site defunct."
+    "notes": "Toronto-based; assets acquired by IonQ in Jan 2023, team became IonQ Canada. Standalone site defunct.",
+    "acquired_by": "IonQ",
+    "acquired_year": "2023"
   },
   {
     "name": "Entropica Labs",
@@ -9646,20 +9580,6 @@
     "notes": "Developed by Budapest Quantum Computing Group / Wigner RCP and ELTE; academic open-source project rather than a commercial company."
   },
   {
-    "name": "Q&A Solutions",
-    "website": "https://www.quantumsolutions.co.za/",
-    "hq_country": "South Africa",
-    "hq_city": "",
-    "founded": "",
-    "category": "Software, Algorithms & Error Correction",
-    "subsector": "Quantum software / optimization",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Reported South African quantum software startup for optimization and simulation in finance and logistics.",
-    "notes": "Existence unverified: appears only in a single Silicon Africa listicle with no city, founding year, or independent source. The listicle gives a different website (quantum.solutions), and quantumsolutions.co.za is unconfirmed as this entity. Likely fabricated or non-operational."
-  },
-  {
     "name": "Q-CTRL",
     "website": "https://q-ctrl.com",
     "hq_country": "Australia",
@@ -9853,7 +9773,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Tensor-network quantum emulator (MIMIQ) and logical-unit software for fault-tolerant quantum computing; now part of BTQ.",
-    "notes": "Acquired by BTQ Technologies (option exercised Nov 2025, closing ~Jan 2026); Strasbourg R&D hub at CESQ. Retains distinct MIMIQ product identity."
+    "notes": "Acquired by BTQ Technologies (option exercised Nov 2025, closing ~Jan 2026); Strasbourg R&D hub at CESQ. Retains distinct MIMIQ product identity.",
+    "acquired_by": "BTQ Technologies",
+    "acquired_year": "2025"
   },
   {
     "name": "Qruise",
@@ -9909,7 +9831,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Hybrid quantum-classical optimization platform (HybridSolver) for enterprise decision problems.",
-    "notes": "Acquired by Strangeworks (Aug 2025); old quantagonia.com now redirects to strangeworks.com."
+    "notes": "Acquired by Strangeworks (Aug 2025); old quantagonia.com now redirects to strangeworks.com.",
+    "acquired_by": "Strangeworks",
+    "acquired_year": "2025"
   },
   {
     "name": "Quantastica",
@@ -9965,7 +9889,9 @@
     "company_type": "startup",
     "status": "acquired",
     "description": "Error characterization, suppression and performance-validation software (True-Q).",
-    "notes": "Waterloo-region/IQC spinout; acquired by Keysight Technologies in May 2021. Standalone site now redirects to Keysight."
+    "notes": "Waterloo-region/IQC spinout; acquired by Keysight Technologies in May 2021. Standalone site now redirects to Keysight.",
+    "acquired_by": "Keysight",
+    "acquired_year": "2021"
   },
   {
     "name": "Quantum Elements",
@@ -10052,30 +9978,16 @@
     "notes": "Co-founded by Felipe Fanchini (UNESP); partners with Albert Einstein Hospital, Sao Paulo."
   },
   {
-    "name": "QuBench",
-    "website": "https://www.qubench.com",
-    "hq_country": "Singapore",
-    "hq_city": "Singapore",
-    "founded": "",
-    "category": "Software, Algorithms & Error Correction",
-    "subsector": "Quantum benchmarking",
-    "modality": "",
-    "company_type": "startup",
-    "status": "uncertain",
-    "description": "Reported developer of benchmarking and performance-testing software for quantum systems.",
-    "notes": "Appears only in Singapore quantum directories; website returns 404 with a self-signed certificate, so existence/activity unconfirmed."
-  },
-  {
     "name": "Qubitor",
-    "website": "http://www.qubitor.com",
+    "website": "https://www.qubitor.com",
     "hq_country": "Singapore",
     "hq_city": "Singapore",
-    "founded": "",
+    "founded": "2017",
     "category": "Software, Algorithms & Error Correction",
     "subsector": "Quantum ML / AI applications",
     "modality": "",
     "company_type": "startup",
-    "status": "uncertain",
+    "status": "active",
     "description": "Quantum computation lab/invention hub developing quantum applications, especially in machine learning and AI.",
     "notes": "Qubitor Pte Ltd, Singapore (per Quantum Computing Report). Website qubitor.com refused connection during checks; likely dormant/very small."
   },

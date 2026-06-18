@@ -50,7 +50,7 @@ CATEGORY_BLURB = {
 CSV_FIELDS = [
     "name", "website", "hq_country", "hq_city", "founded",
     "category", "subsector", "modality", "company_type", "status",
-    "description", "notes",
+    "acquired_by", "acquired_year", "description", "notes",
 ]
 
 # company_type values that get their own separated reference section.
@@ -84,7 +84,16 @@ def name_cell(c):
         badge = " 📈"
     status = (c.get("status") or "").strip().lower()
     if status in ("acquired", "merged"):
-        badge += f" _({status})_"
+        by = cell(c.get("acquired_by"))
+        year = cell(c.get("acquired_year"))
+        if by and year:
+            badge += f" _({status} by {by}, {year})_"
+        elif by:
+            badge += f" _({status} by {by})_"
+        else:
+            badge += f" _({status})_"
+    elif status == "defunct":
+        badge += " _(defunct)_"
     elif status == "uncertain":
         badge += " _(unverified)_"
     web = (c.get("website") or "").strip()

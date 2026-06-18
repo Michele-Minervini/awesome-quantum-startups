@@ -58,9 +58,11 @@ company details and a maintainer will add it.
 | `subsector` |  | Short free-form focus, e.g. `"QKD"`, `"compilers"`, `"cryogenics"`. |
 | `modality` |  | Hardware only: `superconducting`, `trapped-ion`, `photonic`, `neutral-atom`, `spin/silicon`, `annealing`, `topological`, `NV-center/diamond`, … |
 | `company_type` | ✅ | `startup`, `scaleup`, `public-company`, `big-tech-division`, `national-lab-or-spinout`, or `other`. |
-| `status` |  | `active`, `acquired`, `merged`, `defunct`, or `uncertain`. Defaults to active. |
+| `status` |  | `active`, `acquired`, `merged`, `defunct`, or `uncertain`. Defaults to active. `uncertain` renders as *(unverified)* and means we could not confirm the company is a real, operating quantum business; use it sparingly. |
+| `acquired_by` |  | Acquirer name. Set when `status` is `acquired` or `merged` (renders as *(acquired by X, YYYY)*). |
+| `acquired_year` |  | Four-digit year of the acquisition/merger, if known. |
 | `description` | ✅ | One concise line (≤ 140 chars). |
-| `notes` |  | Anything else worth flagging (e.g. "acquired by X in 2024"). |
+| `notes` |  | Anything else worth flagging. |
 
 ### Categories (pick exactly one)
 
