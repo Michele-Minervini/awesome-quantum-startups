@@ -22,3 +22,4 @@ Thumbs.db
 scripts/_apply_verifications.py
 data/_review_queue.json
 data/_actions*.json
+data/_reverify_targets.json

@@ -2,7 +2,7 @@
 
 > A curated, comprehensive directory of companies building the quantum technology ecosystem: quantum computing, sensing, communication, security, and the components that make it all work.
 
-**721 organizations** tracked across **8 sectors** and **40 countries**. Last generated: 2026-06-18.
+**721 organizations** tracked across **8 sectors** and **40 countries**. Last generated: 2026-06-20.
 
 This list covers pure-play startups and scale-ups, publicly traded quantum companies (marked 📈), university spin-outs, and the quantum divisions of large technology and enterprise organizations (listed separately). It is auto-generated from [`data/startups.json`](data/startups.json); see [Contributing](#contributing) to add or fix an entry.
 
@@ -12,8 +12,8 @@ This list covers pure-play startups and scale-ups, publicly traded quantum compa
 - [Software, Algorithms & Error Correction](#software-algorithms--error-correction) (90)
 - [Cloud & Access Platforms](#cloud--access-platforms) (18)
 - [Quantum Sensing & Metrology](#quantum-sensing--metrology) (69)
-- [Quantum Communication & Networking](#quantum-communication--networking) (52)
-- [Quantum Security & Post-Quantum Cryptography](#quantum-security--post-quantum-cryptography) (84)
+- [Quantum Communication & Networking](#quantum-communication--networking) (51)
+- [Quantum Security & Post-Quantum Cryptography](#quantum-security--post-quantum-cryptography) (85)
 - [Components & Enabling Technologies](#components--enabling-technologies) (186)
 - [Applications, Consulting & Services](#applications-consulting--services) (92)
 - [Big Tech & Large-Enterprise Quantum Initiatives](#big-tech--large-enterprise-quantum-initiatives) (36)
@@ -36,10 +36,10 @@ Companies building quantum processors and full-stack quantum computers, across e
 | [AQT (Alpine Quantum Technologies)](https://www.aqt.eu) | Innsbruck, Austria | 2018 | trapped-ion · Quantum computers | Trapped-ion quantum computers in 19-inch racks at room temperature with cloud access. |
 | [Archer Materials](https://www.archerx.com.au) 📈 | Adelaide, Australia | 2007 | spin/silicon · room-temperature carbon qubit chip | ASX-listed firm developing the carbon-based 12CQ room-temperature qubit chip alongside A1 Biochip products. |
 | [Arque Systems](https://www.arque.systems) | Aachen, Germany | 2022 | spin/silicon · Quantum computers | Silicon spin-qubit quantum computing hardware with integrated on-chip cryo-CMOS control. |
-| [Atlantic Quantum](https://www.atlantic-quantum.com) _(acquired by Google, 2025)_ | Cambridge, MA, United States | 2022 | superconducting · Superconducting fluxonium | Superconducting fluxonium qubits with co-located cryogenic control electronics; MIT (EQuS) spinout. |
+| Atlantic Quantum _(acquired by Google, 2025)_ | Cambridge, MA, United States | 2022 | superconducting · Superconducting fluxonium | Superconducting fluxonium qubits with co-located cryogenic control electronics; MIT (EQuS) spinout. |
 | [Atom Computing](https://atom-computing.com) | Berkeley, CA, United States | 2018 | neutral-atom · Full-stack neutral-atom | Neutral-atom quantum computing; first platform to surpass 1,000 physical qubits; partners with Microsoft. |
-| [BardeenQ Labs](https://www.bardeenq.com) _(unverified)_ | Houston, Texas, United States | 2019 | Room-temperature quantum hardware | Develops room-temperature quantum machines and spins out subsidiary quantum-tech startups ('Roivant for quantum') for Industry 4.0. |
-| [Bleximo](https://www.bleximo.com) _(defunct)_ | Berkeley, CA, United States | 2017 | superconducting · Superconducting accelerators | Application-specific superconducting quantum accelerators; co-designs hardware/software for targeted problems. |
+| BardeenQ Labs _(unverified)_ | Houston, Texas, United States | 2019 | Room-temperature quantum hardware | Develops room-temperature quantum machines and spins out subsidiary quantum-tech startups ('Roivant for quantum') for Industry 4.0. |
+| Bleximo _(defunct)_ | Berkeley, CA, United States | 2017 | superconducting · Superconducting accelerators | Application-specific superconducting quantum accelerators; co-designs hardware/software for targeted problems. |
 | [Bose Quantum / QBoson (玻色量子)](https://www.qboson.com) | Beijing, China | 2020 | photonic · Coherent photonic Ising machines | Builds room-temperature coherent photonic quantum computers (optical Ising machines) for optimization problems. |
 | Buchou Quantum (不筹量子) | Shanghai, China | 2025 | neutral-atom · Neutral-atom quantum computing | Neutral-atom quantum computing company spun off from Fudan University (Li Xiaopeng's lab). |
 | [C12 Quantum Electronics](https://www.c12qe.com) | Paris, France | 2020 | spin/silicon · Carbon-nanotube spin qubits | Quantum processors based on electron spins in suspended carbon nanotubes. |
@@ -61,7 +61,7 @@ Companies building quantum processors and full-stack quantum computers, across e
 | [IonQ](https://ionq.com) 📈 | College Park, MD, United States | 2015 | trapped-ion · Full-stack trapped-ion | First pure-play public quantum company; builds trapped-ion processors (Forte, Tempo) and quantum networking systems. |
 | [IQM Quantum Computers](https://www.meetiqm.com) | Espoo, Finland | 2018 | superconducting · Quantum computers | Builds full-stack superconducting quantum computers for HPC centres and research. |
 | [Jiuzhang Quantum (九章量子)](http://www.jiuzhangqt.com) | Jinan, China | 2022 | photonic · Photonic boson-sampling processors | Name tied to USTC's Jiuzhang photonic boson-sampling processors; no confirmed commercial company of this name. |
-| [Liangyi Wanxiang / Atom to Infinity (两仪万象)](http://atomtoinfinity.com) | Beijing, China | 2024 | neutral-atom · Neutral-atom quantum computers | Full-stack neutral-atom quantum computer startup spun out of Tsinghua University; first machine targeted ~2027. |
+| [Liangyi Wanxiang / Atom to Infinity (两仪万象)](https://www.qosmos.cn/) | Beijing, China | 2024 | neutral-atom · Neutral-atom quantum computers | Full-stack neutral-atom quantum computer startup spun out of Tsinghua University; first machine targeted ~2027. |
 | [LogicBit (逻辑比特)](https://logicalqubit.com) | Hangzhou, China | 2024 | superconducting · Error-correctable superconducting chips | Develops error-correctable superconducting quantum chips and QEC systems; Zhejiang University spinout. |
 | MatriQ / Atomic Matrix (原子矩阵) | Hangzhou, China | 2025 | neutral-atom · Neutral-atom Rydberg quantum computers | Full-stack Rydberg dynamic tweezer-array neutral-atom quantum computers; from USTC/Pan Jianwei-linked team. |
 | [Nanofiber Quantum Technologies (NanoQT)](https://nano-qt.com/) | Tokyo, Japan | 2022 | neutral-atom · Nanofiber cavity-QED neutral-atom QC | Nanofiber cavity-QED interconnects for modular/networked neutral-atom quantum processors. |
@@ -88,7 +88,7 @@ Companies building quantum processors and full-stack quantum computers, across e
 | [QuamCore](https://www.quamcore.com) | Herzliya, Israel | 2022 | superconducting · Scalable superconducting architecture | Designs a superconducting architecture targeting one million qubits in a single cryostat via in-cryostat control logic. |
 | [Quandela Quantum (Canada)](https://www.quandela.com/) | Montreal, Canada | 2017 | photonic · Photonic quantum computers | Photonic quantum computers from single-photon sources; Belenos (12-qubit) and Canopus (24-qubit) systems. |
 | [Quanfluence](https://quanfluence.com) | Bengaluru, India | 2021 | photonic · Photonic/optical Ising machines | Photonics-based optical Ising machines and quantum-inspired hardware for high-speed optimization problems. |
-| [QUANTier](https://www.quantier.tech) | Hong Kong, Hong Kong | 2022 | neutral-atom · Neutral-atom quantum processors | Builds room-temperature neutral-atom QPUs using laser-controlled atoms, delivered via cloud. |
+| [QUANTier](https://quantier.io) | Hong Kong, Hong Kong | 2022 | neutral-atom · Neutral-atom quantum processors | Builds room-temperature neutral-atom QPUs using laser-controlled atoms, delivered via cloud. |
 | [Quantinuum](https://www.quantinuum.com) 📈 | Broomfield, CO, United States | 2021 | trapped-ion · Full-stack trapped-ion | Full-stack trapped-ion company (TKET compiler) formed by merging Honeywell Quantum Solutions and Cambridge Quantum. |
 | [Quantum Art](https://www.quantum-art.tech) | Ness Ziona, Israel | 2022 | trapped-ion · Trapped-ion multi-core quantum computers | Builds parallelized, reconfigurable multi-core trapped-ion quantum computers with multi-qubit gates and all-to-all connectivity. |
 | [Quantum Brilliance](https://quantumbrilliance.com) | Stuttgart, Germany | 2019 | NV-center/diamond · Quantum computers | ANU spinout building room-temperature diamond NV-center quantum accelerators. |
@@ -148,13 +148,13 @@ SDKs, compilers, simulators, error-correction, and algorithm/middleware develope
 | [blueqat](https://blueqat.com/) | Tokyo, Japan | 2008 | Quantum SDK + cloud | One of Japan's longest-running quantum software firms; blueqat SDK, cloud platform and developer community. |
 | [BlueQubit](https://www.bluequbit.io) | San Francisco, CA, United States | 2022 | Quantum software / QML platform | Quantum-software-as-a-service platform with QPU/GPU emulators for ML, finance and enterprise use cases. |
 | [BosonQ Psi (BQP)](https://www.bqpsim.com) | Syracuse, United States | 2020 | Quantum/quantum-inspired simulation software | Quantum-accelerated engineering simulation platform (BQPhy) for aerospace, automotive, energy and manufacturing. |
-| [CatQ](https://www.catq.com.au) | Canberra, Australia |  | photonic error correction | ANU spinout developing optical/photonic quantum error correction that pre-emptively corrects errors. |
+| CatQ | Canberra, Australia |  | photonic error correction | ANU spinout developing optical/photonic quantum error correction that pre-emptively corrects errors. |
 | [Classiq](https://www.classiq.io) | Tel Aviv, Israel | 2020 | Quantum software / circuit synthesis | High-level quantum development platform (IDE, compiler) that synthesizes optimized circuits from high-level specifications. |
 | [Cogniframe](https://www.cogniframe.com/) | Toronto, Canada | 2016 | Quantum software platform | Hybrid quantum software platform (FirstQ app store) for enterprise optimization, ML and simulation. |
 | [Conductor Quantum](https://www.conductorquantum.com) | San Francisco, CA, United States | 2024 | spin/silicon · AI control/calibration | Hardware-agnostic AI software for quantum computer calibration and natural-language control. |
 | [Dynamiqs](https://www.dynamiqs.org) | Paris, France | 2024 | Quantum simulation library | Open-source GPU-accelerated, differentiable quantum-dynamics simulation library (JAX). |
 | [Elyah](https://elyah.io/) | Dubai, United Arab Emirates | 2018 | Quantum SDK / circuit tools | Quantum software firm; builds the Qubit Workbench visual circuit IDE plus applied-quantum and PQC services. |
-| [Entangled Networks](https://www.ionq.com/) _(acquired by IonQ, 2023)_ | Toronto, Canada | 2020 | Distributed/multi-core compilation | Software for scaling quantum computers via distributed multi-QPU architectures and compilation. |
+| Entangled Networks _(acquired by IonQ, 2023)_ | Toronto, Canada | 2020 | Distributed/multi-core compilation | Software for scaling quantum computers via distributed multi-QPU architectures and compilation. |
 | [Entropica Labs](https://entropicalabs.com) | Singapore, Singapore | 2018 | Quantum error correction software | Builds the software layer for fault-tolerant quantum error correction; partners with Xanadu and Yaqumo. |
 | [ExaQ.ai](https://exaq.ai) | Singapore, Singapore | 2020 | Quantum machine learning software | Quantum machine-learning software, including the Polyadic QML library and ManyQ ML-optimized simulator. |
 | [Fermioniq](https://www.fermioniq.com) | Amsterdam, Netherlands | 2021 | Quantum emulation software | Tensor-network quantum-circuit emulators (Ava) for simulating quantum algorithms on classical hardware. |
@@ -199,11 +199,11 @@ SDKs, compilers, simulators, error-correction, and algorithm/middleware develope
 | [Qruise](https://www.qruise.com/) | Saarbrücken, Germany | 2021 | ML calibration/control software | Machine-learning software for characterizing, calibrating and controlling quantum (and MR) devices. |
 | [QSIMPLUS](https://www.qsimplus.com/) | Seoul, South Korea | 2021 | Quantum communication simulator | Develops QSIMpro, a software simulator for quantum communication systems and networks; CES 2023 Innovation Award. |
 | [Quanmatic](https://quanmatic.com/) | Tokyo, Japan | 2022 | Quantum optimization software | Quantum/quantum-inspired optimization engines for industry; deployed in ROHM chip manufacturing (2024). |
-| [Quantagonia](https://strangeworks.com) _(acquired by Strangeworks, 2025)_ | Bad Homburg, Germany | 2021 | Optimization | Hybrid quantum-classical optimization platform (HybridSolver) for enterprise decision problems. |
+| Quantagonia _(acquired by Strangeworks, 2025)_ | Bad Homburg, Germany | 2021 | Optimization | Hybrid quantum-classical optimization platform (HybridSolver) for enterprise decision problems. |
 | [Quantastica](https://quantastica.com) | Helsinki, Finland | 2019 | Quantum software tools / transpilers | Builds software tools bridging classical and quantum computing: circuit transpilation, synthesis and conversion. |
 | [Quantistry](https://www.quantistry.ai) | Berlin, Germany | 2018 | Quantum chemistry software | Cloud-based chemical/materials simulation platform combining quantum simulations, physics and ML. |
 | [QuantrolOx](https://quantrolox.com/) | Espoo, Finland | 2021 | AI tuning/control software | Machine-learning software (Quantum EDGE) for automated qubit tune-up, characterisation and control. |
-| [Quantum Benchmark](https://www.keysight.com/us/en/products/software/application-sw/quantum-benchmark.html) _(acquired by Keysight, 2021)_ | Kitchener, Canada | 2017 | Error characterization & suppression | Error characterization, suppression and performance-validation software (True-Q). |
+| Quantum Benchmark _(acquired by Keysight, 2021)_ | Kitchener, Canada | 2017 | Error characterization & suppression | Error characterization, suppression and performance-validation software (True-Q). |
 | [Quantum Elements](https://www.quantumelements.com/) | Los Angeles, United States | 2023 | AI-native quantum development platform | AI-native software stack (Constellation) with a noisy-qubit simulator to accelerate building and testing quantum applications. |
 | [Quantum Open Source Foundation (QOSF)](https://qosf.org/) | Toronto, Canada | 2018 | Open-source community | Non-profit supporting open-source quantum software development, education and mentorship. |
 | [Quantum Rings](https://www.quantumrings.com) | Boulder, CO, United States | 2023 | Quantum circuit simulation | High-fidelity large-scale quantum circuit simulator and SDK running on standard classical hardware. |
@@ -268,7 +268,7 @@ Quantum sensors, magnetometers, gravimeters, atomic clocks, timing, and quantum 
 | [Cerca Magnetics](https://www.cerca-magnetics.com/) | Nottingham, United Kingdom | 2020 | other · Optically pumped magnetometers / MEG brain scanners | Wearable OPM-MEG brain scanners; University of Nottingham spinout with Magnetic Shields Ltd. |
 | [CIQTEK (国仪量子)](https://www.ciqtek.com) | Hefei, China | 2016 | NV-center/diamond · Quantum precision-measurement instruments | NV-diamond magnetometers, quantum diamond microscopes, EPR spectrometers, SEMs and dilution refrigerators. |
 | [Delta g](https://www.delta-g.co.uk/) | Birmingham, United Kingdom | 2023 | Quantum gravity gradiometry | Quantum gravity gradiometers for mapping underground features; University of Birmingham spinout. |
-| [DeteQt](https://deteqt.tech) | Sydney, Australia | 2024 | NV-center/diamond · diamond magnetometers | Commercialises diamond-on-silicon (NV-center) quantum magnetometers for GPS-denied navigation and mineral exploration. |
+| [DeteQt](https://deteqt.tech) | Sydney, Australia | 2023 | NV-center/diamond · diamond magnetometers | Commercialises diamond-on-silicon (NV-center) quantum magnetometers for GPS-denied navigation and mineral exploration. |
 | [DIASENSE](https://www.diasense.dk) | Copenhagen, Denmark | 2024 | NV-center/diamond · Diamond quantum microscopy | Builds NV-diamond quantum magnetic microscopes for contactless defect detection in semiconductor chips. |
 | [Diffraqtion](https://diffraqtion.com/) | Somerville, Massachusetts, United States | 2024 | Quantum imaging cameras | Develops a 'quantum camera' for ultra-high-resolution imaging satellites and telescopes; MIT/University of Maryland spinout. |
 | [Dobslit](https://dobslit.com/) | Sao Carlos, Brazil | 2018 | Quantum sensors / metrology | Second-generation quantum sensing and measurement systems for precision metrology and geophysical surveying. |
@@ -291,7 +291,7 @@ Quantum sensors, magnetometers, gravimeters, atomic clocks, timing, and quantum 
 | [Mesa Quantum](https://mesaquantum.com) | Boulder, CO, United States | 2023 | atomic/vapor-cell · Chip-scale clocks/PNT | Chip-scale atomic clocks and quantum PNT sensors for GPS-denied navigation. |
 | [Mode Labs](https://modelabs.tech/) | Oxford, United Kingdom | 2021 | Chemical sensing | Field chemical sensors (phosphorus, ammonia) using quantum-inspired optical-cavity sensing for water quality. |
 | [Nomad Atomics](https://www.nomadatomics.com) | Canberra, Australia | 2020 | cold-atom · cold-atom gravimeters/sensors | Builds field-deployable cold-atom quantum sensors: gravimeters, accelerometers and magnetometers for mining/navigation. |
-| [NVision Imaging Technologies](https://www.nvision-quantum.com) | Ulm, Germany | 2016 | Quantum sensing/imaging | Hyperpolarization quantum technology for metabolic MRI; expanding into molecular quantum computing. |
+| [NVision Imaging Technologies](https://www.nvision-quantum.com) | Ulm, Germany | 2015 | Quantum sensing/imaging | Hyperpolarization quantum technology for metabolic MRI; expanding into molecular quantum computing. |
 | [Oscilloquartz](https://www.oscilloquartz.com) | Neuchâtel, Switzerland | 1949 | Timing/clocks | Atomic clocks (optical cesium) and precision timing/synchronization systems. |
 | [Phantom Photonics](https://phantomphotonics.ca/) | Waterloo, Canada | 2023 | photonic · Quantum 3D remote sensing / LiDAR | Quantum 3D remote sensing / quantum LiDAR for extreme environments (space, marine, defence). |
 | [Phasor Quantum](https://www.phasorinnovation.com/) | Melbourne, Australia |  | NV-center/diamond · Quantum navigation / magnetometry | Develops synthetic-diamond NV quantum vector magnetometers for GPS-denied magnetic navigation. |
@@ -346,13 +346,12 @@ QKD, the quantum internet, entanglement distribution, repeaters, and quantum-sec
 | [Cohaerentia](https://www.cohaerentia.com) | Milan, Italy | 2014 | QKD devices | Develops quantum key distribution devices; one of three Italian QKD device producers. |
 | [Craft Prospect](https://www.craftprospect.com/) | Glasgow, United Kingdom | 2017 | Space-based QKD / quantum satellites | Space systems firm developing satellite payloads (ROKS) for quantum-secured (QKD) telecommunications. |
 | [Delft Networks](https://delftnetworks.com) | Delft, Netherlands | 2024 | Quantum networks | Deployment-ready entanglement-based quantum networks built on solid-state diamond qubits. |
-| [Guoke Quantum Communication Network (国科量子)](https://www.qtict.com) | Shanghai, China | 2017 | National quantum backbone network operator | CAS-affiliated operator building/running China's provincial QKD backbone (145 nodes, 17 provinces, satellite links). |
+| [Guoke Quantum Communication Network (国科量子)](https://www.qtict.com) | Shanghai, China | 2016 | National quantum backbone network operator | CAS-affiliated operator building/running China's provincial QKD backbone (145 nodes, 17 provinces, satellite links). |
 | [HEQA Security](https://heqa-sec.com) | Jerusalem, Israel | 2018 | QKD + PQC quantum-safe appliances | Production-grade quantum-safe appliances integrating QKD with a NIST-aligned post-quantum cryptography overlay. |
 | [ID Quantique](https://www.idquantique.com) _(acquired by IonQ, 2025)_ | Geneva, Switzerland | 2001 | QKD/QRNG | Pioneer of commercial QKD systems (Cerberis/Clavis), QRNG and quantum-safe networks. |
 | [KEEQuant](https://www.keequant.com) | Fürth, Germany | 2020 | QKD | Integrated-photonic continuous-variable QKD systems for critical-infrastructure security. |
 | [KETS Quantum Security](https://kets-quantum.com/) | Bristol, United Kingdom | 2016 | Chip-scale QKD and QRNG | Chip-scale quantum key distribution (QKD) and quantum random number generation; Bristol spinout. |
 | [Ki3 Photonics Technologies](https://www.ki3photonics.com/) | Montreal, Canada | 2015 | photonic · Quantum networking hardware | Modular photonic hardware for scalable quantum networking and entanglement distribution over fibre. |
-| [Kloch](https://www.kloch.com) | Midlothian, United States | 2019 | QKD / quantum-safe | Develops quantum-safe and QKD-based secure communication solutions. |
 | [levelQuantum](https://www.levelquantum.eu/) | Milan, Italy | 2022 | Satellite QKD / DI-QKD | Develops fiber, free-space and satellite quantum key distribution, including device-independent (DI-QKD). |
 | [Lightsynq Technologies](https://www.lightsynq.com) _(acquired by IonQ, 2025)_ | Boston, Massachusetts, United States | 2024 | Quantum interconnects / memory | Diamond color-center quantum interconnect and memory startup; acquired by IonQ in 2025. |
 | [LQUOM](https://lquom.com/en/) | Yokohama, Japan | 2020 | Quantum repeaters / quantum internet | Yokohama National University spinout building quantum repeaters and entanglement sources for the quantum internet. |
@@ -360,7 +359,7 @@ QKD, the quantum internet, entanglement distribution, repeaters, and quantum-sec
 | [MagiQ Technologies](https://www.magiqtech.com) | Somerville, Massachusetts, United States | 1999 | QKD systems | Released first commercial QKD product (Navajo, 2003); now also optical sensing and seismic monitoring. |
 | [memQ](https://memq.tech) | Chicago, Illinois, United States | 2021 | Quantum memory / network interfaces | UChicago/Argonne spinout building silicon-photonic quantum memory and network interface modules. |
 | [Miraex](https://miraex.com) _(acquired by SEALSQ, 2026)_ | Lausanne, Switzerland | 2019 | photonic · Quantum interconnects | TFLT photonic microwave-to-optical quantum transducers/interconnects for distributed quantum computing and networking. |
-| [Next Generation Quantum (NGQ)](https://nextgenq.com) _(defunct)_ | Brooklyn, New York, United States | 2019 | Quantum interconnects | Develops quantum optical interconnects to network multiple quantum computers; City Tech-linked patent. |
+| Next Generation Quantum (NGQ) _(defunct)_ | Brooklyn, New York, United States | 2019 | Quantum interconnects | Develops quantum optical interconnects to network multiple quantum computers; City Tech-linked patent. |
 | [Nu Quantum](https://nu-quantum.com/) | Cambridge, United Kingdom | 2018 | Quantum networking / data-centre interconnect | Quantum networking hardware and orchestration (Quantum Networking Unit) to connect QPUs; Cambridge spinout. |
 | [Photarix](https://www.photarix.com/) | Lancaster, United Kingdom | 2024 | photonic · Single-photon LED sources for QKD | Quantum Ring single-photon LED (QR-SPLED) telecom-wavelength sources for QKD; Lancaster spinout. |
 | [Pramatra Space](https://www.pramatra.space/) | Bengaluru, India | 2023 | photonic · Satellite QKD | Builds entanglement-based QKD systems for satellite and terrestrial networks using photonic integrated circuits. |
@@ -371,14 +370,14 @@ QKD, the quantum internet, entanglement distribution, repeaters, and quantum-sec
 | [QTI - Quantum Telecommunications Italy](https://www.qticompany.com) | Florence, Italy | 2020 | QKD systems and quantum networks | First Italian quantum-telecom company; builds QKD systems, key management and quantum SDN solutions; now develops quantum repeaters. |
 | [qtlabs (Quantum Technology Laboratories)](https://www.qtlabs.at) | Vienna, Austria | 2017 | Quantum comms | Optical and quantum communication systems including satellite and ground-based QKD. |
 | [Quantized Technologies](https://www.quantizedtech.com/) | Calgary, Canada | 2020 | Quantum-secure comms & quantum internet | UCalgary spinout building quantum-secure data exchange (QuSera) and quantum repeaters for the quantum internet. |
-| [QuantLR](https://heqa-sec.com) | Jerusalem, Israel | 2018 | QKD systems | Develops low-cost, easy-to-integrate QKD hardware for secure communications. |
+| QuantLR | Jerusalem, Israel | 2018 | QKD systems | Develops low-cost, easy-to-integrate QKD hardware for secure communications. |
 | [Quantum Bridge Technologies](https://qubridge.io/) | Toronto, Canada | 2019 | Distributed symmetric keys (DSKE) | University of Toronto spinout commercializing Distributed Symmetric Key Establishment (DSKE) for quantum-safe comms. |
 | [Quantum Industries](https://www.quantum-industries.eu) | Vienna, Austria | 2023 | QKD | Entanglement-based QKD systems securing telecom and critical infrastructure against quantum threats. |
 | [Quantum Network Design (QND)](https://qnetworkdesign.com) | Innsbruck, Austria | 2023 | Network design | Simulation software to design, analyze and optimize quantum networks before deployment. |
 | [Quantum Optics Jena](https://www.qo-jena.com) | Jena, Germany | 2020 | QKD | Entanglement-based QKD systems and entangled-photon sources for quantum-secure networks. |
 | [QuantumCTek (国盾量子)](https://www.quantum-info.com) 📈 | Hefei, China | 2009 | QKD / quantum-secure communication | China's dominant QKD vendor; supplies QKD devices, key management and network gear behind the national quantum-secure backbone. |
 | [QuantumCTek-affiliated China Telecom Quantum Group (中电信量子)](https://www.chinatelecom-quantum.com) 📈 | Hefei, China | 2023 | Quantum-secure telecom services | State-owned operator delivering hybrid QKD+PQC services, quantum-encrypted lines and 5G quantum encryption. |
-| [Qubitekk](https://qubitekk.com) _(acquired by IonQ, 2025)_ | Vista, California, United States | 2012 | Entanglement sources / QKD | Builds entangled-photon sources and quantum network hardware; operated EPB Chattanooga quantum network. |
+| Qubitekk _(acquired by IonQ, 2025)_ | Vista, California, United States | 2012 | Entanglement sources / QKD | Builds entangled-photon sources and quantum network hardware; operated EPB Chattanooga quantum network. |
 | [quCertify](https://qucertify.com) | Stockholm, Sweden | 2019 | Secure communication / quantum networks | Provides secure quantum communication and quantum network solutions (QKD, entanglement sources, QRNG). |
 | [Qunnect](https://www.qunnect.inc) | Brooklyn, New York, United States | 2017 | Quantum repeaters / memory | Stony Brook spinout making room-temperature quantum memories and entanglement sources; powers GothamQ NYC network. |
 | [SpeQtral](https://speqtralquantum.com) | Singapore, Singapore | 2017 | Satellite QKD | Satellite-based and terrestrial quantum-key-distribution systems; delivered entanglement-based QKD payload for SpeQtre mission. |
@@ -432,6 +431,7 @@ Post-quantum cryptography, quantum-safe security, and quantum random number gene
 | [ISARA Corporation](https://www.isara.com) | Waterloo, ON, Canada | 2015 | PQC / crypto-agility | Builds PQC solutions (ISARA Radiate, ML-KEM/ML-DSA) for crypto-agility; longtime PQC standardization contributor. |
 | [Keyfactor](https://www.keyfactor.com) | Independence (Ohio), United States | 2001 | PKI / crypto-agility | PKI and crypto-agility platform to discover, manage and rotate cryptographic assets for PQC transition. |
 | [Keypair](https://www.keypair.co.kr/) | Seoul, South Korea | 2011 | Post-quantum cryptography | PQC and secure-element firm delivering hardware-rooted quantum-safe security for critical infrastructure. |
+| [Kloch](https://www.kloch.com) | Midlothian, United States | 2019 | Quantum-resistant FPGA encryption | Develops quantum-safe and QKD-based secure communication solutions. |
 | [Optalysys](https://optalysys.com/) | Leeds, United Kingdom | 2013 | silicon photonic · Optical/FHE acceleration for PQC | Silicon photonic processors accelerating fully homomorphic encryption and secure-computation workloads. |
 | [Patero](https://patero.io) | College Park (Maryland), United States | 2021 | PQC migration | CryptoQoR post-quantum cryptography platform for protecting data in transit during PQC migration. |
 | [Post-Quantum (Post-Quantum.com)](https://www.post-quantum.com/) | London, United Kingdom | 2009 | Quantum-safe cryptography & identity | Post-quantum cryptography, secure messaging and quantum-safe identity/VPN; protects NATO comms. |
@@ -440,7 +440,7 @@ Post-quantum cryptography, quantum-safe security, and quantum random number gene
 | [PQShield](https://pqshield.com/) | Oxford, United Kingdom | 2018 | Post-quantum cryptography | Post-quantum cryptography hardware IP and software embedded in chips, firmware and applications. |
 | [PQStation](https://www.pqstation.com) | Singapore, Singapore | 2024 | Quantum-safe migration / PQC | Crypto-resiliency tools (QVision) for cryptographic discovery and migration to post-quantum standards. |
 | [PsiQre](https://psiqre.com) | Copenhagen, Denmark |  | Post-quantum cybersecurity / crypto-agility | Enterprise software for post-quantum cryptographic risk management and migration to quantum-safe standards. |
-| [Qabacus](https://www.qabacus.com) _(unverified)_ | Boston, Massachusetts, United States | 2019 | Quantum communication / encryption | Reportedly offers quantum encryption/security software (quantum-secure blockchain for finance). |
+| Qabacus _(unverified)_ | Boston, Massachusetts, United States | 2019 | Quantum communication / encryption | Reportedly offers quantum encryption/security software (quantum-secure blockchain for finance). |
 | [Qaisec](https://qaisec.eu) | Sofia, Bulgaria | 2019 | Quantum encryption / quantum-resistant | Sofia startup offering quantum-resistant encryption and AI for banking and telecom, including a quantum-encrypted blockchain. |
 | [QANplatform](https://www.qanplatform.com) | Tallinn, Estonia | 2019 | Quantum-resistant blockchain | Quantum-resistant hybrid Layer-1 blockchain implementing NIST PQC (Dilithium) signatures; EVM-compatible. |
 | [QApp](https://en.qapp.tech/) | Moscow, Russia | 2019 | Post-quantum cryptography | Post-quantum cryptography software (PQLR SDK, Qtunnel VPN) and quantum-safe security; Russian Quantum Center spinout. |
@@ -458,7 +458,7 @@ Post-quantum cryptography, quantum-safe security, and quantum random number gene
 | [Quantum eMotion](https://www.quantumemotion.com/) 📈 | Montreal, Canada | 2013 | QRNG hardware & quantum-safe security | Semiconductor (quantum-tunneling) QRNG chip hardware and quantum-safe security software. |
 | [Quantum Knight](https://www.quantumknight.io) | Palo Alto, United States | 2023 | Embeddable PQC | Lightweight embeddable PQC encryption SDK (CLEAR) for federal, defense and critical systems. |
 | [Quantum Xchange](https://quantumxc.com) | Bethesda, Maryland, United States | 2018 | Quantum-safe key delivery / crypto-agility | Phio TX key-delivery and CipherInsights platform for quantum-safe (QKD + PQC) crypto management. |
-| [QuantumNova Cybersecurity](https://quantumnova.xyz) | Lisbon, Portugal | 2022 | Post-quantum cryptography | Portuguese deep-tech startup building NIST-aligned post-quantum cryptography products and quantum-safe VPN (QS-P Network). |
+| [QuantumNova Cybersecurity](https://quantumnova.com) | Oliveira do Hospital, Portugal | 2023 | Post-quantum cryptography | Portuguese deep-tech startup building NIST-aligned post-quantum cryptography products and quantum-safe VPN (QS-P Network). |
 | [Quantumz.io](https://quantumz.io) | Warsaw, Poland | 2022 | Quantum cybersecurity | Polish quantum-tech company focused on post-quantum cryptography and secure communications. |
 | [QuBalt](https://www.qubalt.de) | Hamburg, Germany | 2015 | Cryptanalysis-secure crypto | Quantum- and cryptanalysis-secure cryptographic solutions for automotive, aerospace and defense. |
 | [QUBO Technology](https://www.qubo.technology) | Vienna, Austria | 2023 | Quantum security | Optical quantum cryptography (quantum tokens) for securing digital payments. |
@@ -535,7 +535,7 @@ Cryogenics, control electronics, lasers/photonics, materials, fabrication, packa
 | [Delft Circuits](https://delft-circuits.com) | Delft, Netherlands | 2016 | Cryogenic I/O cabling | Cri/oFlex flexible cryogenic RF cables with integrated filtering for scalable quantum I/O. |
 | [Diamond Quanta](https://diamondquanta.com) | Mountain View, California, United States | 2024 | NV-center/diamond · Materials / diamond | Doped lab-grown diamond materials and semiconductor technology for power electronics and quantum. |
 | [Diatope](https://diatope.com) | Ulm, Germany | 2021 | NV-center/diamond · Quantum materials | CVD diamond materials and NV-center substrates for quantum sensing and computing. |
-| [Dimira Technologies](https://www.dimira.in) | Mumbai, India | 2024 | Cryogenic RF cables | Indigenous cryogenic radio-frequency cables and interconnects for quantum hardware; incubated at IIT Bombay. |
+| Dimira Technologies | Mumbai, India | 2024 | Cryogenic RF cables | Indigenous cryogenic radio-frequency cables and interconnects for quantum hardware; incubated at IIT Bombay. |
 | [DiTom Microwave](https://ditom.com) | Fresno, California, United States | 1987 | RF/microwave components | RF isolators and circulators used in qubit readout and control chains. |
 | [Dream Photonics](https://dreamphotonics.com/) | Vancouver, Canada | 2020 | Silicon photonics design & devices | UBC-spinout silicon/integrated photonics design house and devices for quantum and communications. |
 | [Ekspla](https://ekspla.com) | Vilnius, Lithuania | 1992 | Lasers / laser electronics | Manufactures scientific and industrial lasers and laser electronics used in quantum and photonics research. |
@@ -556,7 +556,7 @@ Cryogenics, control electronics, lasers/photonics, materials, fabrication, packa
 | [Hamamatsu Photonics](https://www.hamamatsu.com/) 📈 | Hamamatsu, Japan | 1953 | Photonic devices / single-photon detectors | Photonics manufacturer supplying single-photon detectors, SPADs and light sources for quantum systems. |
 | [Hawthorn Photonics](https://hawthornphotonics.com/) | Bozeman, Montana, United States |  | Nonlinear optics / frequency conversion | US photonics group in nonlinear optics and quantum photonics; parent of AdvR, Covesion and Radiantis. |
 | [Henan Shijia Photons Technology (仕佳光子)](https://www.shijiaphotons.com) 📈 | Hebi, China | 2010 | Photonic chips & QRNG components | Optical/photonic chip and component maker (PLC/AWG/DFB) involved in QRNG chip and optical-component supply. |
-| [High Precision Devices](https://www.hpd-online.com) _(acquired by FormFactor, 2020)_ | Boulder, Colorado, United States | 1994 | Cryogenics | Adiabatic demagnetization refrigerators and cryogenic instrumentation for quantum and detector research. |
+| High Precision Devices _(acquired by FormFactor, 2020)_ | Boulder, Colorado, United States | 1994 | Cryogenics | Adiabatic demagnetization refrigerators and cryogenic instrumentation for quantum and detector research. |
 | [HiQuTe Diamond](https://hiqute-diamond.com) | Boulogne-Billancourt, France | 2022 | NV-center/diamond · NV-center diamond materials | Nitrogen-doped, isotopically enriched diamond plates with NV centers for quantum sensing and computing. |
 | [Holzworth Instrumentation](https://holzworth.com) | Boulder, Colorado, United States | 2004 | RF test & measurement | Low phase-noise RF synthesizers and phase-noise analyzers for quantum control. |
 | [Hyper Tech Research](https://www.hypertechresearch.com) | Columbus, Ohio, United States | 2001 | Superconducting materials | Superconducting MgB2 and Nb3Sn wires and materials for magnets and cryogenic systems. |
@@ -576,7 +576,7 @@ Cryogenics, control electronics, lasers/photonics, materials, fabrication, packa
 | [Leiden Cryogenics](https://www.leidencryogenics.nl) | Leiden, Netherlands | 1992 | Dilution refrigerators | Dutch maker of dilution refrigerators, cryostats and ultra-low-temperature systems for quantum and physics research. |
 | [Leybold](https://www.leybold.com) | Cologne, Germany | 1850 | Vacuum technology | Vacuum pumps and technology used in quantum device fabrication and cryogenics. |
 | [LIGENTEC](https://www.ligentec.com) | Lausanne, Switzerland | 2016 | photonic · Photonic chips | Low-loss silicon nitride photonic integrated circuit foundry for quantum and classical photonics. |
-| [Lightium](https://lightium.com) | Zurich, Switzerland | 2022 | Thin-film lithium niobate photonic foundry | Industrial thin-film lithium niobate (TFLN) photonic integrated circuit foundry and design services. |
+| [Lightium](https://lightium.com) | Schlieren, Switzerland | 2022 | Thin-film lithium niobate photonic foundry | Industrial thin-film lithium niobate (TFLN) photonic integrated circuit foundry and design services. |
 | [LightMachinery](https://lightmachinery.com/) | Ottawa, Canada | 2002 | Precision optics & lasers | Precision optical components, etalons and lasers used in quantum sensing and photonics. |
 | [LioniX International](https://www.lionix-international.com) | Enschede, Netherlands | 2001 | photonic · Photonic integrated circuits | TriPleX silicon-nitride photonic integrated circuits and modules used in quantum photonics. |
 | [Liquid Instruments](https://liquidinstruments.com) | Canberra, Australia | 2014 | test & measurement instruments | ANU/NASA-JPL spinout making FPGA-based Moku test-and-measurement instruments used in quantum labs and rigs. |
@@ -650,11 +650,11 @@ Cryogenics, control electronics, lasers/photonics, materials, fabrication, packa
 | [SCONTEL](https://www.scontel.ru) | Moscow, Russia | 2004 | Superconducting single-photon detectors | Manufactures superconducting nanowire single-photon detector systems with integrated cryocoolers and electronics. |
 | [Single Quantum](https://singlequantum.com) | Delft, Netherlands | 2012 | Single-photon detectors | Superconducting nanowire single-photon detectors (SNSPD) for quantum and photonics applications. |
 | [Singular Photonics](https://singularphotonics.com) | Edinburgh, United Kingdom | 2024 | Photonic detectors | SPAD-based photon-counting image sensors for quantum, spectroscopy and imaging applications. |
-| [SkyWater Technology](https://www.skywatertechnology.com) 📈 _(acquired by IonQ, 2026)_ | Bloomington, Minnesota, United States | 2017 | Chip fabrication / foundry | US semiconductor foundry providing dedicated fabrication for quantum and specialty chips. |
+| [SkyWater Technology](https://www.skywatertechnology.com) 📈 | Bloomington, Minnesota, United States | 2017 | Chip fabrication / foundry | US semiconductor foundry providing dedicated fabrication for quantum and specialty chips. |
 | [Sparrow Quantum](https://sparrowquantum.com) | Copenhagen, Denmark | 2016 | photonic · Single-photon sources | Maker of on-demand deterministic single-photon source chips (Sparrow Core) for photonic quantum computing. |
 | [Spectrum Instrumentation](https://spectrum-instrumentation.com) | Grosshansdorf, Germany | 1989 | Control electronics | Arbitrary waveform generators and digitizers for quantum control and readout. |
 | [Stable Laser Systems](https://stablelasers.com) | Boulder, Colorado, United States | 2009 | Lasers | Ultra-stable lasers and Fabry-Perot reference cavities for optical clocks and quantum experiments. |
-| [Stirling Cryogenics](https://stirlingcryogenics.eu) | Eindhoven, Netherlands | 1953 | Cryogenics | Stirling-cycle cryocoolers and stand-alone cryogenic cooling systems. |
+| [Stirling Cryogenics](https://stirlingcryogenics.eu) | Eindhoven, Netherlands | 1954 | Cryogenics | Stirling-cycle cryocoolers and stand-alone cryogenic cooling systems. |
 | [STMicroelectronics](https://www.st.com) 📈 | Geneva, Switzerland | 1987 | Chip fabrication / foundry | Semiconductor manufacturer with process capabilities relevant to qubit and quantum chip fabrication. |
 | [Sumitomo Heavy Industries (SHI Cryogenics)](https://www.shicryogenics.com) 📈 | Tokyo, Japan | 1969 | Cryogenics / cryocoolers | Gifford-McMahon and pulse-tube cryocoolers and cryogenic refrigeration for quantum and research systems. |
 | [sureCore](https://www.sure-core.com) | Sheffield, United Kingdom | 2011 | Cryo-CMOS semiconductor IP | Licenses low-power and cryogenic (CryoMem) CMOS memory/IP for cryo control electronics in quantum computing. |
@@ -688,7 +688,7 @@ End-use applications (chemistry, finance, logistics, ML), consulting, education,
 | --- | --- | --- | --- | --- |
 | [Accenture (Quantum)](https://www.accenture.com) | Dublin, Ireland | 2017 | Quantum strategy & implementation consulting | Accenture's Quantum Lab offers quantum strategy, use-case discovery, prototyping and quantum security services. |
 | [Airbus Quantum Technologies](https://www.airbus.com/en/innovation/digital-transformation/quantum-technologies) | Toulouse, France |  | Aerospace quantum applications + sensing | Airbus explores quantum computing for aerospace optimization and quantum sensing; co-runs the Airbus-BMW Quantum Computing Challenge. |
-| [Alqam](https://www.alqam.sa/) _(unverified)_ | Saudi Arabia |  | Quantum optimization applications | Saudi firm applying quantum optimization algorithms across telecom, aviation, logistics, oil-and-gas and finance. |
+| Alqam _(unverified)_ | Saudi Arabia |  | Quantum optimization applications | Saudi firm applying quantum optimization algorithms across telecom, aviation, logistics, oil-and-gas and finance. |
 | [AmberFlux](https://amberflux.com) | Hyderabad, India | 2020 | Hybrid quantum integration / services | EdgeAI company offering hybrid classical-quantum workflow integration and assurance services. |
 | [Angstrom AI](https://angstrom-ai.com/) | London, United Kingdom | 2024 | Generative molecular simulation | Generative-AI plus quantum-accurate physics (MACE) molecular simulation for drug discovery. |
 | [ApexQubit](https://www.apexqubit.com) | Berkeley, California, United States | 2018 | Drug discovery / biotech | Quantum-and-AI drug discovery platform simulating molecular dynamics to design therapies for hard-to-treat diseases. |
@@ -874,7 +874,7 @@ Quantum-first companies that trade on public markets (also listed within their s
 | [SAES Group (Rial Vacuum)](https://www.saesgetters.com) 📈 | Lainate, Italy | Components & Enabling Technologies | Getters and UHV vacuum systems for ion-trap and atomic quantum hardware; Rial Vacuum acquired 2021. |
 | [SEALSQ](https://www.sealsq.com) 📈 | Geneva, Switzerland | Quantum Security & Post-Quantum Cryptography | Post-quantum secure semiconductors (QS7001), PKI and IoT hardware security; Nasdaq-listed WISeKey subsidiary. |
 | [Senetas](https://www.senetas.com) 📈 | Melbourne, Australia | Quantum Security & Post-Quantum Cryptography | High-assurance network encryption provider delivering quantum-resistant (NIST PQC) encryption for defence/government. |
-| [SkyWater Technology](https://www.skywatertechnology.com) 📈 _(acquired by IonQ, 2026)_ | Bloomington, Minnesota, United States | Components & Enabling Technologies | US semiconductor foundry providing dedicated fabrication for quantum and specialty chips. |
+| [SkyWater Technology](https://www.skywatertechnology.com) 📈 | Bloomington, Minnesota, United States | Components & Enabling Technologies | US semiconductor foundry providing dedicated fabrication for quantum and specialty chips. |
 | [STMicroelectronics](https://www.st.com) 📈 | Geneva, Switzerland | Components & Enabling Technologies | Semiconductor manufacturer with process capabilities relevant to qubit and quantum chip fabrication. |
 | [Sumitomo Heavy Industries (SHI Cryogenics)](https://www.shicryogenics.com) 📈 | Tokyo, Japan | Components & Enabling Technologies | Gifford-McMahon and pulse-tube cryocoolers and cryogenic refrigeration for quantum and research systems. |
 | [SuperQ Quantum Computing](https://www.superq.co) 📈 | Calgary, Canada | Cloud & Access Platforms | Calgary firm whose 'Super' platform unifies quantum annealing, gate-based QC and HPC behind a chat-style interface. |
@@ -900,8 +900,8 @@ Quantum-first companies that trade on public markets (also listed within their s
 | Software, Algorithms & Error Correction | 95 |
 | Cloud & Access Platforms | 19 |
 | Quantum Sensing & Metrology | 70 |
-| Quantum Communication & Networking | 58 |
-| Quantum Security & Post-Quantum Cryptography | 86 |
+| Quantum Communication & Networking | 57 |
+| Quantum Security & Post-Quantum Cryptography | 87 |
 | Components & Enabling Technologies | 191 |
 | Applications, Consulting & Services | 95 |
 
