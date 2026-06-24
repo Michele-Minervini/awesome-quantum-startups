@@ -1,8 +1,8 @@
 # Awesome Quantum Startups [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated, comprehensive directory of companies building the quantum technology ecosystem: quantum computing, sensing, communication, security, and the components that make it all work.
+> A curated directory of companies building quantum technology: quantum computing, sensing, communication, security, and the components that make it all work.
 
-**721 organizations** tracked across **8 sectors** and **40 countries**. Last generated: 2026-06-20.
+**721 organizations** tracked across **8 sectors** and **40 countries**. Last updated: 2026-06-24.
 
 This list covers pure-play startups and scale-ups, publicly traded quantum companies (marked 📈), university spin-outs, and the quantum divisions of large technology and enterprise organizations (listed separately). It is auto-generated from [`data/startups.json`](data/startups.json); see [Contributing](#contributing) to add or fix an entry.
 
@@ -117,7 +117,7 @@ Companies building quantum processors and full-stack quantum computers, across e
 | [SpinQ Technology (量旋科技)](https://www.spinquanta.com) | Shenzhen, China | 2018 | superconducting · Desktop NMR & superconducting quantum computers | Builds compact NMR education quantum computers plus industrial-grade superconducting systems up to ~20 qubits, plus a chip foundry. |
 | [Sygaldry Technologies](https://sygaldry.com) | Ann Arbor, MI, United States | 2024 | multi-modal · Quantum-accelerated AI | Building quantum-accelerated AI servers combining multiple qubit modalities for fault-tolerant compute. |
 | Taiyi Quantum (太一量子) | Shanghai, China | 2026 | neutral-atom · Ytterbium neutral-atom quantum computers | Builds ytterbium neutral-atom quantum computers; founded by former Microsoft chief quantum architect Liu Hongbin. |
-| [TreQ](https://treq.tech/) | Milton Park, Oxfordshire, United Kingdom | 2023 | Quantum systems engineering / integration | Designs, builds and operates bespoke open-architecture, multi-vendor quantum computing systems. |
+| [TreQ](https://treq.tech/) | Milton Park, Oxfordshire, United Kingdom | 2023 | Quantum systems engineering / integration | Designs, builds and operates custom open-architecture, multi-vendor quantum computing systems. |
 | [TuringQ (图灵量子)](https://www.turingq.com) | Shanghai, China | 2021 | photonic · Integrated photonic quantum chips | Develops lithium-niobate/silicon photonic quantum chips, photonic processors and supporting software; SJTU spinout. |
 | [Universal Quantum](https://universalquantum.com/) | Brighton, United Kingdom | 2018 | trapped-ion · Modular trapped-ion (QCCD) computers | Modular microwave-driven trapped-ion quantum computers with electric-field interconnects; U. Sussex spinout. |
 | [Xanadu Quantum Technologies](https://www.xanadu.ai) 📈 | Toronto, Canada | 2016 | photonic · Photonic quantum computing | Photonic quantum computers using squeezed light; maker of PennyLane open-source QML framework. |
@@ -506,7 +506,7 @@ Cryogenics, control electronics, lasers/photonics, materials, fabrication, packa
 | AnharmoniQ | Chicago, United States | 2024 | superconducting · Quantum hardware infrastructure | Builds critical hardware infrastructure for scaling large-scale superconducting quantum computers. |
 | [Anritsu](https://www.anritsu.com/) 📈 | Atsugi, Japan | 1895 | Test & measurement | Test-and-measurement instrumentation supplier serving quantum hardware development. |
 | [Applied Nanotools](https://www.appliednt.com/) | Edmonton, Canada | 2002 | Nanofabrication & photonics foundry | Nanofabrication and integrated-photonics (NanoSOI e-beam) foundry services for quantum and photonics. |
-| [Applied Quantum Materials (AQM)](https://www.aqmaterials.com/) | Edmonton, Canada | 2016 | Quantum dots & nanomaterials | Manufactures silicon quantum dots and advanced nanomaterials for sensing, thermal and electronics uses. |
+| [Applied Quantum Materials (AQM)](https://www.aqmaterials.com/) | Edmonton, Canada | 2016 | Quantum dots & nanomaterials | Manufactures silicon quantum dots and nanomaterials for sensing, thermal and electronics uses. |
 | [AQSolotl](https://www.aqsolotl.com) | Singapore, Singapore | 2024 | Quantum control hardware | Builds quantum control hardware, notably the CHRONOS-Q controller linking classical and quantum systems. |
 | [Arago](https://www.arago.inc) | Paris, France | 2024 | photonic · Photonic computing chips | Develops a photonic AI processor (JEF) using silicon photonics and free-space optics to cut compute energy ~10x. |
 | [Arctic Instruments](https://arcticinst.io) | Espoo, Finland | 2024 | Parametric amplifiers / qubit readout | Builds near-quantum-limited travelling-wave parametric amplifiers (TWPAs) for high-fidelity superconducting qubit readout. |
@@ -602,7 +602,7 @@ Cryogenics, control electronics, lasers/photonics, materials, fabrication, packa
 | [Optiwave Systems](https://optiwave.com/) | Ottawa, Canada | 1994 | Photonics design software | Photonics and optical-system design/simulation software used in quantum communication and sensing. |
 | [Orange Quantum Systems](https://orangeqs.com) | Delft, Netherlands | 2020 | Quantum chip test & benchmarking | Automated test, characterization and benchmarking systems for quantum chips. |
 | [Oriole Networks](https://oriolenetworks.com/) | London, United Kingdom | 2023 | photonic · Photonic networking for AI/data centres | Photonic optical-circuit-switched networking to interconnect AI chips; UCL spinout. |
-| [OTI Lumionics](https://www.otilumionics.com/) | Mississauga, Canada | 2011 | Materials & quantum simulation | Advanced materials company using quantum/quantum-inspired simulation to design OLED and electronic materials. |
+| [OTI Lumionics](https://www.otilumionics.com/) | Mississauga, Canada | 2011 | Materials & quantum simulation | Materials company using quantum/quantum-inspired simulation to design OLED and electronic materials. |
 | [Oxford Instruments](https://www.oxinst.com/) 📈 | Abingdon, United Kingdom | 1959 | Cryogenics / dilution refrigerators | Cryogenic systems including Proteox dilution refrigerators enabling quantum hardware. |
 | [OZ Optics](https://www.ozoptics.com/) | Ottawa, Ontario, Canada | 1985 | Fiber-optic components | Supplies fiber-optic components and entangled-photon-pair sources (PPLN/PPSF) for quantum applications. |
 | [Phoenix Company of Chicago](https://phoenixofchicago.com) | Chicago, Illinois, United States | 1969 | RF interconnects / packaging | PkZ constant-impedance RF/microwave blindmate connectors and cryogenic cable assemblies for quantum systems. |

@@ -1,7 +1,7 @@
 # Contributing to Awesome Quantum Startups
 
-Thanks for helping keep this the most complete, accurate directory of quantum-technology
-companies! Contributions of new companies, corrections, and removals are all welcome.
+Thanks for helping keep this directory complete and accurate! Contributions of new
+companies, corrections, and removals are all welcome.
 
 ## How the repo works
 

@@ -1826,7 +1826,7 @@
     "modality": "",
     "company_type": "startup",
     "status": "active",
-    "description": "Manufactures silicon quantum dots and advanced nanomaterials for sensing, thermal and electronics uses.",
+    "description": "Manufactures silicon quantum dots and nanomaterials for sensing, thermal and electronics uses.",
     "notes": "Edmonton, AB; U. Alberta spinout; canonical site aqmaterials.com; founded 2016 (corrected from 2008)."
   },
   {
@@ -3242,7 +3242,7 @@
     "modality": "",
     "company_type": "scaleup",
     "status": "active",
-    "description": "Advanced materials company using quantum/quantum-inspired simulation to design OLED and electronic materials.",
+    "description": "Materials company using quantum/quantum-inspired simulation to design OLED and electronic materials.",
     "notes": "Mississauga, ON; uses quantum and quantum-inspired methods for materials design."
   },
   {
@@ -6556,7 +6556,7 @@
     "modality": "",
     "company_type": "startup",
     "status": "active",
-    "description": "Designs, builds and operates bespoke open-architecture, multi-vendor quantum computing systems.",
+    "description": "Designs, builds and operates custom open-architecture, multi-vendor quantum computing systems.",
     "notes": "QED-C member; Innovate UK Open-Architecture Quantum testbed lead (with Rigetti, Oxford Ionics, Q-CTRL)."
   },
   {

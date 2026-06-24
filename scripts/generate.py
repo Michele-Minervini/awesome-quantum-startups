@@ -180,10 +180,10 @@ def build_readme(data):
     w = out.write
 
     w("# Awesome Quantum Startups [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n\n")
-    w("> A curated, comprehensive directory of companies building the quantum technology ecosystem: "
+    w("> A curated directory of companies building quantum technology: "
       "quantum computing, sensing, communication, security, and the components that make it all work.\n\n")
     w(f"**{total} organizations** tracked across **{len([c for c in CATEGORIES if main[c] or by_cat[c]])} sectors** "
-      f"and **{len(countries)} countries**. Last generated: {date.today().isoformat()}.\n\n")
+      f"and **{len(countries)} countries**. Last updated: {date.today().isoformat()}.\n\n")
     w("This list covers pure-play startups and scale-ups, publicly traded quantum companies (marked 📈), "
       "university spin-outs, and the quantum divisions of large technology and enterprise organizations "
       "(listed separately). It is auto-generated from [`data/startups.json`](data/startups.json); "
