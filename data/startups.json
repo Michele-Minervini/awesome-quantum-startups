@@ -10162,5 +10162,21 @@
     "status": "active",
     "description": "Quantum/quantum-inspired algorithm software (Orquestra) for chemistry, cryptography, pharma and ML.",
     "notes": "Ceased operations Oct 2024 after default; reemerged Sept 2025 as Zapata Quantum after bankruptcy restructuring (>$18M debt addressed). Operating again under CEO Sumit Kapur; website may redirect."
+  },
+  {
+    "name": "Qounselor",
+    "website": "https://qounselor.fr/",
+    "hq_country": "France",
+    "hq_city": "Grenoble",
+    "founded": "2025",
+    "category": "Applications, Consulting & Services",
+    "subsector": "Quantum readiness, roadmaps & training",
+    "modality": "",
+    "company_type": "startup",
+    "status": "active",
+    "acquired_by": "",
+    "acquired_year": "",
+    "description": "Quantum-computing consultancy offering readiness assessments, integration roadmaps, resource estimates, and team training.",
+    "notes": "Founded by Valentin Gilbert (PhD, quantum computing); maintains the QuantumBenchmarkZoo project. Submitted by the founder via issue #1."
   }
 ]

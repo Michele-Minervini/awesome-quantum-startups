@@ -2,7 +2,7 @@
 
 > A curated directory of companies building quantum technology: quantum computing, sensing, communication, security, and the components that make it all work.
 
-**721 organizations** tracked across **8 sectors** and **40 countries**. Last updated: 2026-06-24.
+**722 organizations** tracked across **8 sectors** and **40 countries**. Last updated: 2026-06-25.
 
 This list covers pure-play startups and scale-ups, publicly traded quantum companies (marked 📈), university spin-outs, and the quantum divisions of large technology and enterprise organizations (listed separately). It is auto-generated from [`data/startups.json`](data/startups.json); see [Contributing](#contributing) to add or fix an entry.
 
@@ -15,7 +15,7 @@ This list covers pure-play startups and scale-ups, publicly traded quantum compa
 - [Quantum Communication & Networking](#quantum-communication--networking) (51)
 - [Quantum Security & Post-Quantum Cryptography](#quantum-security--post-quantum-cryptography) (85)
 - [Components & Enabling Technologies](#components--enabling-technologies) (186)
-- [Applications, Consulting & Services](#applications-consulting--services) (92)
+- [Applications, Consulting & Services](#applications-consulting--services) (93)
 - [Big Tech & Large-Enterprise Quantum Initiatives](#big-tech--large-enterprise-quantum-initiatives) (36)
 - [Publicly Traded Pure-Play Quantum Companies](#publicly-traded-pure-play-quantum-companies) (50)
 - [Statistics](#statistics)
@@ -746,6 +746,7 @@ End-use applications (chemistry, finance, logistics, ML), consulting, education,
 | [QBee](https://qbee.eu) | Leuven, Belgium | 2020 | Quantum software / consulting | Quantum software, micro-architecture, simulator and consulting/education across genomics, chemistry and finance. |
 | [QDX](https://qdx.co) | Canberra, Australia | 2023 | quantum chemistry / drug discovery | Quantum-mechanics/HPC computational chemistry and drug-discovery platform (Rush) accelerating therapeutic design. |
 | [Qkrishi](https://qkrishi.com) | Gurugram, India | 2021 | Quantum finance | Quantum algorithms for finance and adjacent sectors; IFSCA-authorized fintech building a quantum finance sandbox. |
+| [Qounselor](https://qounselor.fr/) | Grenoble, France | 2025 | Quantum readiness, roadmaps & training | Quantum-computing consultancy offering readiness assessments, integration roadmaps, resource estimates, and team training. |
 | [Qpurpose](https://qpurpose.dk/) | Odense, Denmark | 2022 | Quantum algorithms & applications | Develops quantum algorithms and software applications for healthcare, energy and finance. |
 | [QRDLab](https://www.qrdlab.in) | Kolkata, India | 2020 | Quantum education & consulting | Quantum research, education and consulting initiative partnered with University of Calcutta. |
 | [QSimulate](https://qsimulate.com) | Cambridge, Massachusetts, United States | 2018 | Molecular simulation | Quantum-mechanics molecular simulation software (QUELO) for pharma drug discovery and materials. |
@@ -887,8 +888,8 @@ Quantum-first companies that trade on public markets (also listed within their s
 
 ## Statistics
 
-- **Total organizations:** 721
-- **Listed in sector tables:** 685
+- **Total organizations:** 722
+- **Listed in sector tables:** 686
 - **Big-tech / enterprise divisions:** 36
 - **Publicly traded pure-plays:** 50
 
@@ -903,7 +904,7 @@ Quantum-first companies that trade on public markets (also listed within their s
 | Quantum Communication & Networking | 57 |
 | Quantum Security & Post-Quantum Cryptography | 87 |
 | Components & Enabling Technologies | 191 |
-| Applications, Consulting & Services | 95 |
+| Applications, Consulting & Services | 96 |
 
 **Top countries / regions:**
 
@@ -914,7 +915,7 @@ Quantum-first companies that trade on public markets (also listed within their s
 | United Kingdom | 66 |
 | Germany | 62 |
 | China | 33 |
-| France | 30 |
+| France | 31 |
 | India | 26 |
 | Japan | 26 |
 | Australia | 25 |
