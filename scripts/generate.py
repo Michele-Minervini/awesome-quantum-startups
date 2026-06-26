@@ -15,6 +15,7 @@ import csv
 import io
 import json
 import os
+import re
 import sys
 from datetime import date
 
@@ -294,13 +295,20 @@ def main():
     csv_text = build_csv(data)
 
     if check:
+        # The "Last updated" date is regenerated from the system clock, so it
+        # legitimately differs between when the README was generated and when CI
+        # runs (e.g. a different UTC day). Ignore that single line when checking
+        # sync, so content drift is still caught but the date never trips CI.
+        def norm(s):
+            return re.sub(r"Last updated: \d{4}-\d{2}-\d{2}", "Last updated: <date>", s)
+
         ok = True
         for path, new in ((README, readme), (DATA_CSV, csv_text)):
             cur = ""
             if os.path.exists(path):
                 with open(path, encoding="utf-8") as f:
                     cur = f.read()
-            if cur != new:
+            if norm(cur) != norm(new):
                 ok = False
                 print(f"OUT OF SYNC: {os.path.relpath(path, ROOT)} differs from generated output.", file=sys.stderr)
         if not ok:
